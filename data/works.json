@@ -12,7 +12,7 @@
    "Network / data"
   ],
   "summary": "An edition of 4,096 NFT artworks on the Ethereum blockchain, released through the platform Outland. Each 3FACE reads its owner's wallet and public transaction history, interprets it through a personality model of Nature, Nurture and Posture developed by Cheng, and renders a generative portrait; the owner can update the reading as the wallet accrues more history. MoMA and the Whitney Museum acquired editions in 2023.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://whitney.org/collection/works/67733",
   "sources": [
    {
@@ -70,7 +70,7 @@
    "Network / data"
   ],
   "summary": "A working installation made of four linked parts: a compost-heated incubator growing mouse muscle cells as lab-grown meat, an alkaline hydrolysis unit that turns tissue and slaughterhouse refuse into fertiliser, hydroponic beds growing plants without soil, and a control room collecting sensor data from the other parts. It was first staged as a three-week durational experiment at PS Art Space, Fremantle, in February 2022, with public workshops, a symposium, dinner events, live streaming and a documentary. It received an Award of Distinction in Artificial Intelligence & Life Art at Prix Ars Electronica 2023.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://tcaproject.net/portfolio/sunlight-soil-and-shift-decycle/",
   "sources": [
    {
@@ -160,7 +160,7 @@
    "Screen / monitor"
   ],
   "summary": "A sound installation built from field recordings of soils and plants in Colombia's Eastern Plains, recorded above and below ground, together with recordings of the electrical conductivity of soy and amaranth plants, which are sonified. FACT describes the recordings as contrasting soy monocultures with soy-amaranth polycultures, where amaranth grows despite herbicide use. Accompanying video works (On Vegetal Politics, Botánica Transgénica) and a blockchain application address the stock-market valuation and patenting of genetically modified plants; the work received the 2023 Prix Ars Electronica Golden Nica in Digital Musics & Sound Art.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/aeblog/?p=39165",
   "sources": [
    {
@@ -243,7 +243,7 @@
    "Screen / monitor"
   ],
   "summary": "Absence is a 3D-animated short film (10 min per the artist, 12 min per the producer Autour de Minuit), in French with English subtitles. An old homeless man collapses alone in a square; passers-by avoid, ignore or help him, until journalists take an interest and he becomes the centre of an escalating media event. It received an Award of Distinction in Computer Animation at Prix Ars Electronica 2022.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "http://marc-hericher.com/project/absence/",
   "sources": [
    {
@@ -299,7 +299,7 @@
    "VR / AR / XR"
   ],
   "summary": "A 50-minute interactive 360-degree VR experience made in Nairobi, shown in Venice VR Expanded 2020. The viewer chooses a gender and the order in which to visit five creative spaces run by Nairobi collectives, and in each space chooses what to do and where to go next.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.labiennale.org/en/cinema/2020/venice-vr-expanded/african-space-makers",
   "sources": [
    {
@@ -380,7 +380,7 @@
    "Network / data"
   ],
   "summary": "An ongoing project that uses AI image generation to build a growing fictional archive of 'historical images' in which male figures in known historical photographs are replaced by female or nonbinary figures; the collection is spread across digital platforms so it can be scraped as training data for future AI models. In the exhibition installation, a selection of images related to technology is shown with a slide projector on a vintage projection screen.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/hope/en/ai-and-the-art-of-historical-reinterpretation",
   "sources": [
    {
@@ -480,7 +480,7 @@
    "AI / generative"
   ],
   "summary": "AI War Cloud Database is an online interactive database and visualisation (aiwar.cloud) that catalogues AI systems used to make automated decisions in warfare and maps where the same types of tools appear in commercial products such as iris scanners, chatbots, robot vacuums and mapping tools, along with the companies and governments involved. Users explore the material through network graphs, a searchable table and interactive stories; the project describes itself as both an interactive database and a tangible interactive installation. It received the S+T+ARTS Prize 2025 Grand Prize – Artistic Exploration and was shown in the S+T+ARTS Prize exhibition at Ars Electronica Festival 2025 in Linz.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/starts-prize/?p=11528",
   "sources": [
    {
@@ -570,7 +570,7 @@
    "AI / generative"
   ],
   "summary": "Anthem is an installation of four suspended devices modelled on tree tumours (burls), 3D-printed and fitted with speakers, microphones and sound processors. It responds in real time to visitors' vocalisations with machine-generated animal-like calls. It was first shown at the centre of Santillán's exhibition ¿Qué se siente ser tierra? at the Centro de Arte Contemporáneo de Quito (2025–2026) and again at the 2026 Diriyah Contemporary Art Biennale.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://terremoto.mx/?p=69121",
   "sources": [
    {
@@ -640,7 +640,7 @@
    "Screen / monitor"
   ],
   "summary": "Anxious Body is a 5'47 2D digital animated short without dialogue, commissioned by Towada Art Center and produced by Miyu Productions and New Deer (2021), with sound by Yuka C. Honda. It shows fingers, cellophane tape and a dispenser, a mechanical pencil, tennis racket strings, a sponge and a snake-like creature touching, pulling and pressing against one another. It received an Award of Distinction in Computer Animation at Prix Ars Electronica 2022.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://archive.aec.at/prix/267896/",
   "sources": [
    {
@@ -726,7 +726,7 @@
    "Projection"
   ],
   "summary": "An interactive installation (Dyscrimina / Ausente) presented at the 44th International Symposium of Contemporary Art of Baie-Saint-Paul: a surveillance-style projection shows visitors in real time, and people are erased from the frame. Across four stations using AI and computer vision, the public collectively teaches the machine which characteristics to recognize; those outside the resulting vocabulary are designated « non-choisi.e » and progressively removed from the image.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://paoloalmario.com/portfolio/dyscrimina-ausente/",
   "sources": [
    {
@@ -810,7 +810,7 @@
    "Network / data"
   ],
   "summary": "Avatar Robot Cafe DAWN ver.β is a permanent café in Nihonbashi, Tokyo, run by Ory Lab, where people who have difficulty going out because of illness, disability, caregiving or distance work as “pilots”, remotely operating the avatar robots OriHime and OriHime-D from home or hospital through the robots' cameras, microphones and speakers, in some cases by eye-gaze input. Visitors are seated, order, are served drinks and talk with the pilots through the robots; the project also matches pilots with employers through Ory Lab's Avatar Guild staffing agency. It received the Golden Nica in Digital Communities at Prix Ars Electronica 2022.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/planetb/en/avatar-robot-cafe",
   "sources": [
    {
@@ -908,7 +908,7 @@
    "Projection"
   ],
   "summary": "A projection mapping work shown on the facade of CHIJMES at the Singapore Night Festival 2025 (22 Aug-6 Sep), made by Tororo.aoi (Asher Yeo) as part of the festival's third Projection Mapping Masterclass, led by the Malaysian collective Filamen. According to the festival, it takes Singapore's island and port history as its subject, starting from a metaphorical dive into a shipwreck.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://web.archive.org/web/20251015060459/https://www.heritage.sg/sgnightfest/whats-on/awakening",
   "sources": [
    {
@@ -963,7 +963,7 @@
    "VR / AR / XR"
   ],
   "summary": "Azibuye – The Occupation is a 360-degree virtual reality documentary following Masello Motana, a performance artist, and Evan Abrahamse, an activist and former Umkhonto we Sizwe member, who occupy a mansion in an affluent part of Johannesburg that has stood empty and decaying for about 20 years, as an act about land ownership. The viewer is placed inside the house with them; the film includes a recorded phone interview with the house's owner. Produced by Electric South, it premiered in the New Frontier section of the Sundance Film Festival in 2020.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://archive.bubblegumclub.co.za/?p=20703",
   "sources": [
    {
@@ -1024,7 +1024,7 @@
    "Material / sculpture"
   ],
   "summary": "Añoranzas (Yira Yira) is an installation with 16mm colour film made by recycling celluloid combs, screened with a 16mm film projector. It refers to Argentine film pioneer Federico Valle, whose surviving films, after a 1926 fire, were sold to a comb factory that used the celluloid as raw material. The work was realised with a 2023 CIFO-Ars Electronica Award and shown at the LENTOS Kunstmuseum during Ars Electronica Festival 2023.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/who-owns-the-truth/?p=1792",
   "sources": [
    {
@@ -1109,7 +1109,7 @@
    "Text / print"
   ],
   "summary": "A bio-art project by Sarah Khan and Joe Davis that encodes the Arabic phrase \"Subhan Allah\" multiple times into synthesized DNA molecules, using a coding scheme modelled on the repeating geometries of Islamic art; according to the artists, a 1mm layer of this DNA on the head of a straight pin holds 2.417 quintillion repetitions (\"angels\"). The work is presented with a glass and aluminum \"Baitul Ma'mur\" structure with electronics, project graphics and a short documentary film. It received an Honorary Mention in the Prix Ars Electronica 2021, Artificial Intelligence & Life Art category.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/newdigitaldeal/en/baitul-mamur",
   "sources": [
    {
@@ -1180,7 +1180,7 @@
    "Material / sculpture"
   ],
   "summary": "An installation made in 2020 consisting of a video-essay, two 3D-printed busts and an augmented reality application. It addresses the 'Shirley cards' used to calibrate skin tones in colour photography and the failure of current facial recognition software to register darker skin. It was shown at the 5th Istanbul Design Biennial (2020) and in the exhibition Digital Shadows at OBA Oosterdok, Amsterdam (until 26 Feb 2023), and received an Honorary Mention in Interactive Art + at Prix Ars Electronica 2022.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://waag.org/en/article/biased-technology-behind-shirley",
   "sources": [
    {
@@ -1264,7 +1264,7 @@
    "Projection"
   ],
   "summary": "An installation of video, photography and sound composition shown at Centro Cultural Recoleta for the 17th Bienal de Artes Mediales de Santiago (2025). It is built from audio recordings, photographs and video the artist made of her home and its surroundings in Santiago's Barrio Yungay after resettling there in 2024, assembled as what she calls an 'anti-archive'; two sound-visual concerts accompanied it.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://17.bienaldeartesmediales.cl/obra/bemol/",
   "sources": [
    {
@@ -1331,7 +1331,7 @@
    "Camera / computer vision"
   ],
   "summary": "Broken Spectre (2022) is a feature-length immersive video installation (about 70–74 minutes) on deforestation and environmental crime along the Trans-Amazonian Highway in the Brazilian Amazon, made with cinematographer Trevor Tweeten and composer Ben Frost. It alternates footage from an aerial multispectral camera flown from a helicopter, ultraviolet macro time-lapse of the forest floor, and black-and-white infrared 35mm film of ranchers, gold miners and Indigenous communities, including a speech to camera by Yanomami woman Adneia. Visitors watch it in a gallery with a spatialised soundtrack; it received the 2023 S+T+ARTS Grand Prize – Innovative Collaboration.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/starts-prize/en/broken-spectre/",
   "sources": [
    {
@@ -1420,7 +1420,7 @@
    "Performance / body"
   ],
   "summary": "Build Up the House II is an animated video shown on more than 92 electronic billboards in Times Square nightly from 11:57pm to midnight throughout March 2025 as part of Midnight Moment, presented with ART on THE MART. Silhouettes of dancers leap, spin and vogue across colored patterns that reference the artist's East African heritage and textiles, as an homage to house music and its queer and POC roots. It follows Build Up the House, a 2024 projection on the facade of THE MART in Chicago marking the 40th anniversary of house music; a public DJ dance party accompanied the Times Square presentation on 14 March 2025.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://brendanfernandes.ca/build-up-the-house-ii",
   "sources": [
    {
@@ -1500,7 +1500,7 @@
    "Sound"
   ],
   "summary": "A cinematic installation (film, about 27 minutes, in French and Lingala, with 3D sound) built around a mobile street coffee cart in Kinshasa that Shongo converted into a recording device. Filmed after the M23 capture of Goma and Bukavu in early 2025, it follows the cart and a coffee vendor through the city's streets and conversations, with fictional elements such as masked figures holding electronic waste and licence plates; it won the State of the ART(ist) prize at Ars Electronica 2025.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/panic/en/view/cafe-kuba-22a38ddb450c8117aebafb85198618a4",
   "sources": [
    {
@@ -1594,7 +1594,7 @@
    "Network / data"
   ],
   "summary": "A diagram more than 24 metres long and 3 metres high, made as a diptych of hundreds of hand-drawn illustrations and short texts, that maps communication, computation, classification and control from 1500 to the present. Time runs vertically and systems run horizontally, so visitors can follow a theme, a period or a set of ideas. Two handmade books are shown with it, and visitors are invited to annotate them in pencil.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/starts-prize/en/calculating-empires/",
   "sources": [
    {
@@ -1689,7 +1689,7 @@
    "Projection"
   ],
   "summary": "An installation in which an AI system named Cangjie, a neural network trained on the constructions of over 9,000 Chinese characters, watches its surroundings through a camera and turns the live feed into new symbols built from Chinese strokes, shown as a moving pixelated landscape on a first projection. A second projection shows descriptive sentences the system generates about the scene, rendered as flowing ink 'poetry' assembled with fragments of the captured imagery. Visitors meet both projections changing in real time with what the camera sees.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://archive.aec.at/prix/266995/",
   "sources": [
    {
@@ -1774,7 +1774,7 @@
    "Robotics / kinetics"
   ],
   "summary": "An installation made for the 36th Bienal de São Paulo (2025): 11 suspended panels of recycled matchbox fragments on thin wooden slats, among which 64 motor-driven rope pendulums carrying pieces of coal strike leather drums. The coal shatters on impact; the sounds are picked up by microphones and amplified into a soundscape with noises and voices, and the debris accumulates on the floor. The work later travelled with the Bienal's itinerant exhibitions, including to the Pinacoteca do Ceará and the Centro Cultural La Moneda in Santiago.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://fdag.com.br/en/news/antonio-tarsis-36th-bienal-de-sao-paulo/",
   "sources": [
    {
@@ -1850,7 +1850,7 @@
    "Screen / monitor"
   ],
   "summary": "CENTO is an augmented-reality creature, geolocated above the eighth-floor terrace of the Whitney Museum of American Art, together with a video that tours the creature's imagined habitat (nest, refueling chamber, and the space where it metabolizes fuel and takes flight). Using the free 4th Wall app, on site or from anywhere, viewers choose one of twelve feathers, each with a function such as communication, navigation or energy conversion, and add it to the creature's body, which is updated over time. It is a Whitney artport commission; the title refers to a poem made of lines taken from other poets' works.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://whitney.org/exhibitions/cento",
   "sources": [
    {
@@ -1940,7 +1940,7 @@
    "Camera / computer vision"
   ],
   "summary": "CHIMERIA is a project, performance and installation in which head-mounted displays move a participant's vision to other parts of the body, such as the toes, so that the feet act as the head. Volunteers recruited through a publicly circulated phone number lived together in a Tokyo residence, adapting to an environment built for upright bodies with tube-fed liquid food, wire-driven prosthetics and a toilet used kneeling. Outsiders could visit the space, but only by imitating the environment and becoming part of it.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/prix/en/winners/",
   "sources": [
    {
@@ -2028,7 +2028,7 @@
    "Sound"
   ],
   "summary": "A five-track, roughly 42-minute 3D audio album for headphone listening, made with the HPL binaural process developed with engineer Jiro Kubo (ACOUSTIC FIELD). It reconstructs evala's 2019 sound installations 'Chosho Hakkei' in the Nakazu Banshou-en daimyo garden in Marugame, Kagawa, placed on a bridge, on a small island and in the oldest extant tea house there, first restaged as a 3D sound piece at Rittor Base. Listeners follow, on headphones, a route through the garden's recorded and composed sounds.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://archive.aec.at/prix/256840/",
   "sources": [
    {
@@ -2117,7 +2117,7 @@
    "Material / sculpture"
   ],
   "summary": "A single-channel video (8:50 minutes) shown with a textile installation of pieces handwoven by the artist, co-commissioned by Colomboscope and Ghost 2568 and exhibited at Colomboscope: Rhythm Alliances in Colombo. The video shows looms and Yakthung rituals at Mukkumlung sacred mountain and the Imbiri Yangthangwa (Tamor river) region of eastern Nepal, alongside protests against hydropower dams and a proposed cable car; the textiles have also been carried in demonstrations.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.asapconnect.in/post/995/singleevents/on-protest-memory-and-history",
   "sources": [
    {
@@ -2197,7 +2197,7 @@
    "Projection"
   ],
   "summary": "An XR video game and live motion-capture performance (Ukrainian title Чули? Чули, 'Have you heard? We've heard' / 'Have you felt it? We've felt it'), first developed as a demo in Deep Space 8K at the Ars Electronica Center. In the first act a player crosses a game world guided by an AI-processed narration of a woman's story of seeing giants; in the second a dancer in an inertial motion-capture suit, whose calibration drifts, enters, and player and dancer exchange suit parts and controller, so the player becomes a non-player character and the dancer controls the camera. It received an Honorary Mention in New Animation Art at Prix Ars Electronica 2024.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/university/en/%d1%87%d1%83%d0%bb%d0%b8-%d1%87%d1%83%d0%bb%d0%b8/",
   "sources": [
    {
@@ -2286,7 +2286,7 @@
    "Robotics / kinetics"
   ],
   "summary": "Circles of Rhythm and Rains (also given as Circle of Rhythms / Circle of Rhythms & Rains) is a kinetic sound installation shown at the Rio Complex for Colomboscope 2026, co-commissioned with 421 Arts Campus. Traditional Tamil drums used in Koothu (thavil, mathalam, udukkai, parai, mirudhangam), handcrafted with artisan Vadivel Aananthashankar from reclaimed wood and repurposed materials, are arranged in a circle and struck by automated tappers driven by Arduino and motors, built with DreamSpace Academy/lab. Visitors meet programmed, pulsating beat cycles played without a human drummer.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.e-flux.com/criticism/6782386/colomboscope-2026-rhythm-alliances",
   "sources": [
    {
@@ -2375,7 +2375,7 @@
    "Projection"
   ],
   "summary": "An AI-art-science project that generates an open-ended taxonomic collection of speculative life forms by training generative networks on microscopy footage of bacteria and archaea combined with cellular-automata models. The installation, distributed across three projections, shows the process from the simplest organisms through 'virtual genesis' to a final rendering with an AI-generated taxonomic name. It was made during the SETI x AI residency (SETI Institute and Ars Electronica Futurelab, European ARTificial Intelligence Lab) in 2021 and received an Honorary Mention at Prix Ars Electronica 2023.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://archive.aec.at/prix/279020/",
   "sources": [
    {
@@ -2469,7 +2469,7 @@
    "Material / sculpture"
   ],
   "summary": "Coin Laundry is an installation by the pseudonymous artist XCOPY, presented on the Nguyen Wahed stand in the Zero 10 section of Art Basel Miami Beach in December 2025 and staged as a laundromat. According to the gallery, participants enter an ephemeral network through fungible tokens inscribed in code, in a collective performance planned to last a decade; the work was presented in partnership with Shape.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.rightclicksave.com/article/zero-10-digital-art-goes-mainstream-at-art-basel-miami-beach",
   "sources": [
    {
@@ -2527,7 +2527,7 @@
    "Sound"
   ],
   "summary": "Collective Body is a 19-minute multi-user virtual reality dance experience set in a New Mexican storm, in which participants are guided through stages: beginning alone, discovering the unfamiliar, first encounters and moving together. An algorithmic system analyses each participant's movement and assigns one of sixteen avatars, each represented as a natural element with its own musical theme; participants then meet one other person and finally the whole group. It runs on Meta Quest 3 headsets with almost full-body tracking and no other wearables; it was shown at Venice Immersive 2025 and at Lincoln Center.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.labiennale.org/en/cinema/2025/venice-immersive/collective-body",
   "sources": [
    {
@@ -2612,7 +2612,7 @@
    "Robotics / kinetics"
   ],
   "summary": "Yuko Mohri's exhibition for the Japan Pavilion at the 60th Venice Biennale (20 April to 24 November 2024), curated by Sook-Kyung Lee, made of two site-specific installations built mostly from materials found locally. In Moré Moré (Leaky), the artist creates water leaks in the pavilion and catches them with household goods, with pumps circulating the water through a large kinetic sculpture; rain can enter through the open ceiling. In Decomposition, electrodes in local fruit turn their changing moisture into signals that modulate drone sounds and lights as the fruit ripens and decays, after which it goes to compost.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.jpf.go.jp/e/about/press/2024/002.html",
   "sources": [
    {
@@ -2702,7 +2702,7 @@
    "Sound"
   ],
   "summary": "Convergence is a 35-minute piece for string ensemble and AI system, made with Ensemble Resonanz, that exists as a staged version (premiered in Bonn, October 2020; revised in Dresden, 2023) and a digital-only streamed version (premiered February 2021, commissioned by Eclat Festival). Deep-learning models (auto-encoders and GANs, with audio programming by IRCAM researchers) learn features of the musicians' faces, bodies and voices, and the performers, guided by a computer voice, interact with the generated counterparts of themselves. It won the 2021 Prix Ars Electronica Golden Nica for Digital Musics & Sound Art.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://alexanderschubert.net/works/Convergence.php",
   "sources": [
    {
@@ -2773,7 +2773,7 @@
    "Sound"
   ],
   "summary": "Conversations Beyond the Ordinary is an ensemble of three interactive installations (a coffee vending machine, a photocopier and a microwave) fitted with sensors, custom software and generative AI so that they converse with visitors. Visitors have to persuade the coffee machine to brew them a coffee, draw doodles that the photocopier turns into rendered prints they can take home, and use the microwave to give a voice to objects placed inside it. It received an Honorary Mention in Interactive Art+ at Prix Ars Electronica 2024 and was shown at the Ars Electronica Festival 2024; the coffee machine and microwave were developed during a residency at iii (instrument inventors initiative).",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/hope/?p=7551",
   "sources": [
    {
@@ -2871,7 +2871,7 @@
    "Projection"
   ],
   "summary": "A projection mapping work shown on the facade of CHIJMES at the Singapore Night Festival 2025 (22 Aug-6 Sep), made by HAFI (Hafizah Jainal) as part of the festival's third Projection Mapping Masterclass, led by the Malaysian collective Filamen. Using illustration and moving images, it traces the routes of the artist's maternal and paternal grandparents from Alor Gajah, Melaka, and Pacitan, East Java, to Singapore.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://web.archive.org/web/20251015055747/https://www.heritage.sg/sgnightfest/whats-on/dari-pulau-ke-pulau",
   "sources": [
    {
@@ -2946,7 +2946,7 @@
    "Network / data"
   ],
   "summary": "A series of five digital paintings made in Microsoft Word and issued as NFTs, restaging David Hockney's Portrait of an Artist (Pool with Two Figures) (1972) with a Black man as the poolside bather under different daylight and water colours. The works were shown at 1-54 Contemporary African Art Fair at Somerset House, London, in October 2021 and auctioned online by Christie's, the first NFT by a contemporary African artist offered by Christie's in Europe.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://fadmagazine.com/?p=273205",
   "sources": [
    {
@@ -3026,7 +3026,7 @@
    "Material / sculpture"
   ],
   "summary": "Dobra do tempo infinito is a video installation shown in the Hãhãwpuá Pavilion (Brazil) at the 60th Venice Biennale, combining video with seeds, leaves, soil, fishing nets, jereré and samburá. The video records workshops Glicéria Tupinambá organised in the communities of Serra do Padeiro and Olivença (Bahia), in which masters made canoes, fishing nets and net-weaving needles and went fishing with trawls and tarrafas; the footage was shot by young people of the Atã Tupinambá Group with Augusto Santos (Method_av). The venue text links the stitches of fishing nets to the weaving of traditional Tupinambá clothing.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://kaapuera.bienal.org.br/en/works/",
   "sources": [
    {
@@ -3119,7 +3119,7 @@
    "Screen / monitor"
   ],
   "summary": "Double Poser is a 38-minute auto-played game made with the Unity game engine (4k, colour, stereo sound), commissioned by the Hayward Gallery, London, and Art Sonje Center, Seoul, and shown in the Hayward's HENI Project Space from 1 December 2023 to 7 January 2024. Reinterpreting components of Kim's Cutter III (2023), it takes the Hayward's brutalist architecture as a starting point and combines computer-generated imagery, video game aesthetics and skateboarding culture. Visitors watch it as a video in the gallery.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://artreview.com/heecheon-kim-keeping-it-real/",
   "sources": [
    {
@@ -3200,7 +3200,7 @@
    "Sound"
   ],
   "summary": "Sedira's installation for the French Pavilion at the 59th Venice Biennale (2022): a series of interlocking film sets, including a re-creation of her London living room, a shelf of film reels referencing the Cinémathèque Algérienne, a ballroom bar and a cinema room, combined with a film of re-enactments and 'makings of' scenes. It draws on Algerian, French and Italian militant cinema of the 1960s and 1970s, including The Battle of Algiers and the rediscovered Les Mains libres. Visitors walk through the sets, watch the film and at times meet two performers dancing the tango.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.e-flux.com/announcements/438576/zineb-sediradreams-have-no-titles/",
   "sources": [
    {
@@ -3279,7 +3279,7 @@
    "Sound"
   ],
   "summary": "A four-channel video installation (colour, sound, 10 min 30 sec, with curtains and mattress) that pairs a silent projection of the Jewel Rain Vortex indoor waterfall at Singapore's Changi Airport with three channels of footage and spatialised sound from Thailand's Vajiralongkorn Dam Reservoir, where displaced Karen families live on floating rafts; the two sites are linked by a shared hydroelectric power grid. Visitors walk through the waterfall projection screens to reach the reservoir footage. It was first shown at Storefront for Art and Architecture, New York (2025), and at Singapore Biennale 2025 alongside the sound work The Humming of the Power Grid and a fundraising Water Campaign for the reservoir community.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://field-0.xyz/singapore-biennale-2025",
   "sources": [
    {
@@ -3367,7 +3367,7 @@
    "VR / AR / XR"
   ],
   "summary": "EMPEROR is a 40-minute single-user interactive VR narrative, produced by Atlas V with Reynard Films and France Télévisions, set inside the mind of a father with aphasia, drawn as a hand-drawn monochrome landscape. The user takes the father's point of view alongside his daughter, using hand tracking to pick up objects, write letters and handle word cards in speech-therapy scenes, some of which are designed to fail at first. It is based on the story of co-director Marion Burger's father.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://villa-albertine.org/va/?p=694448",
   "sources": [
    {
@@ -3462,7 +3462,7 @@
    "Text / print"
   ],
   "summary": "A short film (4K single-channel video, 6'10'') and artist book (Small Book of Endangered Gestures) showing hand gestures generated with AI imaging for words and phrases that began disappearing from U.S. government websites, documents and archives in March 2025. Each censored word is paired with a proposed gesture made by hands that are almost but not quite human. It received a Prix Ars Electronica Honorary Mention (New Animation Art) and was shortlisted for the LUMA Rencontres Dummy Book Award in 2026.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://eesly.xyz/endangered-gestures",
   "sources": [
    {
@@ -3542,7 +3542,7 @@
    "Material / sculpture"
   ],
   "summary": "Estate (July 10, 2022) is a sculpture in the form of a door intercom mounted on a folding screen, shown at the Whitney Biennial 2026. A camera in the work monitors its surroundings, and an AI model trained on the social media posts of a deceased person from a creative field speaks in a cloned voice when visitors come near, responding with fragments of recollection (for example a recipe when someone passes holding a drink). An LED screen counts the years, days, hours and minutes since that person's death.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://whitney.org/exhibitions/2026-biennial/art?section=32",
   "sources": [
    {
@@ -3627,7 +3627,7 @@
    "Robotics / kinetics"
   ],
   "summary": "An installation of 3D-printed metal stones on elevated stainless steel panels at varying heights, heated through heat conductors, thermal sensors, relays and a thermal controller, with roller pumps and water pipes delivering droplets of water. Each droplet that touches a stone evaporates in under a second with a soft percussive sound, which is amplified in the space. It was shown at the 13th Seoul Mediacity Biennale, Séance: Technology of the Spirit, Seoul Museum of Art (2025).",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://mediacityseoul.kr/en/yesterday/artworks/evaporating-symphony",
   "sources": [
    {
@@ -3711,7 +3711,7 @@
    "VR / AR / XR"
   ],
   "summary": "Eyes of Shame is a 40-minute animated virtual reality film (Lithuania, France, Croatia). It follows 14-year-old Eyeless in a hospital for troubled teenagers: when a nurse forces her to eat, unfinished memories begin to interrupt the present, and the viewer is placed in her point of view. It premiered in the Venice Immersive competition in 2026 and draws on the director's volunteering at a hospital for teenagers in Vilnius, where he has run animation workshops since 2014.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.labiennale.org/en/cinema/2026/venice-immersive/eyes-shame-g%C4%97dos-akys",
   "sources": [
    {
@@ -3782,7 +3782,7 @@
    "AI / generative"
   ],
   "summary": "F*ckai? (Famous) is a five-minute 3D-animated short film by Toronto director and animator Jordan Clarke. Its story, about an AI that wanted to be famous, was generated by OpenAI in response to his prompt and voiced by an AI, then paraphrased and edited by Clarke, who animated, composited, sound-designed and edited the film himself. It closes his 'f*ckai?' series of short films and received an Honorary Mention in New Animation Art at the 2024 Prix Ars Electronica.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.stashmedia.tv/jordan-clarke-meets-an-ai-who-wants-to-be-famous/",
   "sources": [
    {
@@ -3865,7 +3865,7 @@
    "AI / generative"
   ],
   "summary": "Fashion Show for Elders is a series of AI-generated images by Nigerian filmmaker Malik Afegbua showing elderly African models on a runway in outfits mixing traditional Nigerian dress with futuristic designs. The show never took place: the models and clothes were produced with several AI image generators, and the images were shared online, where many viewers took them for a real event.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://mymodernmet.com/malik-afegbua-fashion-show-for-elders/",
   "sources": [
    {
@@ -3949,7 +3949,7 @@
    "Sound"
   ],
   "summary": "A 17-minute film shot on Super 16mm and transferred to Full HD, commissioned by Röda Sten Konsthall, Gothenburg. It is divided into chapters: the contents of a recently deceased man's bedroom described in an invented one-word language, an abstract time-based painting sequence, a love poem, and an alligator appearing in the clouds. Viewers watch it as a single-channel film in screenings and exhibitions.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.e-flux.com/events/582110/basim-magdy-flickers-of-utopia",
   "sources": [
    {
@@ -4024,7 +4024,7 @@
    "Sound"
   ],
   "summary": "A film of about an hour combining documentary, scripted fiction and archival footage, shot mainly in the Galilee, the Golan Heights and around Jerusalem. It follows Palestinian foragers gathering za'atar and 'akkoub, plants whose wild harvesting is restricted under Israeli nature-protection law, and stages court hearings co-scripted with lawyer Rabea Eghbariah. Viewers watch it as a film in cinemas, festivals and exhibitions.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://povmagazine.com/?p=10556",
   "sources": [
    {
@@ -4107,7 +4107,7 @@
    "Material / sculpture"
   ],
   "summary": "An installation of steel, glass, a workshop crane, tubes and a pump in which a glass fermenter holds a replica of the right hand of Michelangelo's David, 3D-printed in the bioplastic PHB. PHB-producing bacteria (including Cupriavidus necator) in the fermenter gradually metabolise the hand and alter its form. It belongs to chapter 5 of Feuerstein's METABOLICA project and was shown in Renaissance 3.0 at ZKM Karlsruhe (2023), whose collection holds it.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.thomasfeuerstein.net/05_METABOLICA/60_CHAPTER_5/62_FROM_HAND_TO_MOUTH",
   "sources": [
    {
@@ -4188,7 +4188,7 @@
    "Text / print"
   ],
   "summary": "From Noise is a series of 12 NFTs from one algorithm by Tyler Hobbs that translates the spontaneous gestural marks of painters such as Cy Twombly and Joan Mitchell into code; each work contains more than 4,000 marks. At Zero 10, Art Basel Miami Beach 2025 (SOLOS stand), it was shown as four large-format prints on wood varnished by the artist, with boxed sets of screen prints, Translated Gestures, taken from details of the outputs.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://solos.gallery/exhibitions/from-noise",
   "sources": [
    {
@@ -4273,7 +4273,7 @@
    "Text / print"
   ],
   "summary": "fugue notes is a film (HD digital video and 16mm, with sound) in which the artist's original plan for a film is replaced by its notes: in deep shadow and darkness, a voiceover links eroding autobiographical memory with the failed image. It was commissioned by CIRCUIT for Leap to the Place of Two Pools at Te Pātaka Toi Adam Art Gallery, Wellington (2025), and was later screened at Artspace Aotearoa in 2026 with the artist reading the script live.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.circuit.org.nz/project/fugue-notes-live",
   "sources": [
    {
@@ -4349,7 +4349,7 @@
    "Network / data"
   ],
   "summary": "A website presented as a fictitious online funeral platform where mourners attend simulated funerals for lost loved ones in themed virtual mausoleums, such as a mahjong room, a gallery of cat memes or a feng shui master's orchard. Users can choose to delete a deceased person's digital footprint, keep it as an inheritance, or donate it to a collective Memorial Hall, and can give NFTs as memorial gifts; exploring a scene reveals hidden clues and rewards. The platform states it has no actual financial function and does not share data with other platforms.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://archive.aec.at/prix/278459/",
   "sources": [
    {
@@ -4425,7 +4425,7 @@
    "Robotics / kinetics"
   ],
   "summary": "An installation in the Arsenale at the 61st Venice Biennale (In Minor Keys): a large olive tree placed on a rotating stage, onto which a video is projected. The projected footage shows the same tree, filmed before its transport to Venice.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://bthumm.de/exhibitions/theo-eshetu-biennale-arte-2026-venice/",
   "sources": [
    {
@@ -4515,7 +4515,7 @@
    "Material / sculpture"
   ],
   "summary": "GR-AI-N is a digital-craft workflow that uses discarded offcuts from the wood industry: pieces are scanned, AI-powered tools extract their grain patterns, texture and imperfections, and robotic assembly and milling build objects (mirrors, a headboard) as 3D mosaics of irregular pieces that keep the grain continuous. It was developed in the VOJEXT S+T+ARTS residency 'Robotics in Arts and Crafts' in Barcelona and was nominated for the 2024 S+T+ARTS Prize.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://archive.aec.at/startsprize/288853/",
   "sources": [
    {
@@ -4576,7 +4576,7 @@
    "Performance / body"
   ],
   "summary": "Guanaquerx is a four-legged robot modelled on the guanaco, partly made from caña colihue bamboo and dressed in Andean textiles. In January 2024, about 30 people with 58 mules and horses took it across the Andes from Argentina to the Chilean border over seven days, re-enacting the 1817 crossing by San Martín's army; mules carried the robot where the ground was too rough for it. The robot records sound and images, emits a synthetic whinny, beats a drum, waves a flag and carries a plaque with 'Pluriversal Laws of Robotics'. The work won the 2025 Prix Ars Electronica Golden Nica and was shown at the Ars Electronica Festival 2025.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/aeblog/en/2025/07/07/a-robots-liberation/",
   "sources": [
    {
@@ -4674,7 +4674,7 @@
    "Screen / monitor"
   ],
   "summary": "HANDMADE is a video diptych of about 11 minutes, originally conceived for two 4K monitors and presented at MoMA from November 2023 in the ground-floor Gund Lobby on a large media wall. One part shows digitally manipulated footage of a gale-force storm on Lake Huron, filmed by Thornton with a handheld camera while lying down; the other shows a physicist at Caltech making a handwoven sensing device for a research project on antimatter. These are interspersed with film recordings of fluid-dynamics studies that Thornton found during her 2019 residency in the Caltech-Huntington Program in Visual Culture.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.labocine.com/films/handmade",
   "sources": [
    {
@@ -4779,7 +4779,7 @@
    "Online / net art"
   ],
   "summary": "Harvesting Climate Action was a six-week installation in Hackney Service Centre, London (autumn 2025), part of Ling Tan's Low Carbon Chinatown project, made with Hackney Council's Climate Team. Its centre was 100 recyclable cardboard stools, each printed on one side with a 'Climate Action' (from individual to borough-wide) and on the other with the carbon footprint of a meal ingredient, alongside data maps, food-making videos, audio stories and living produce. The installation then became a 'Low Carbon Banquet for a Hundred', where 100 members of the public each took a stool, sat with strangers over low carbon East and Southeast Asian dishes, debated and voted on the actions, and took their stool home; the 100 Climate Actions also exist as an online toolkit. It received an Honorary Mention (Digital Humanity) at Prix Ars Electronica 2026.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://lowcarbon.lingql.com/chinatown",
   "sources": [
    {
@@ -4864,7 +4864,7 @@
    "Material / sculpture"
   ],
   "summary": "A multi-panel installation made during an AlUla residency in 2022, named after Hinat, a Nabataean woman whose tomb (Tomb 117) is at Hegra. Painted and photo-transferred collages of AlUla landscapes have rectangles cut out, into which videos are projected; the videos, generated with machine learning from footage of three women from AlUla wearing coloured fabrics, show ghostly figures moving across the landscapes. It was shown in 'Art of the Kingdom' at the Saudi Arabian Museum of Contemporary Art.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://athrart.com/artworks/12377-daniah-alsaleh-hinat-1-2022/",
   "sources": [
    {
@@ -4944,7 +4944,7 @@
    "Network / data"
   ],
   "summary": "A public website where anyone can upload audio and get it back 'sung' in a machine-learning model of Holly Herndon's voice, built with Never Before Heard Sounds. What people make is theirs to use; 'official' Holly+ works are voted on by a DAO of stewards, sold as NFTs, with profits split between the maker, the DAO treasury and Herndon.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://holly.plus/",
   "sources": [
    {
@@ -5029,7 +5029,7 @@
    "Camera / computer vision"
   ],
   "summary": "A life-size sculptural digital console shown at the Whitney Biennial 2026. It combines sculpture with video and surveillance footage and functions as a self-portrait. The neon-green surface carries a cast face and 3D-printed parts, and at its centre a clear womb holds a motor-driven ouroboros.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://whitney.org/exhibitions/2026-biennial/art?section=50",
   "sources": [
    {
@@ -5122,7 +5122,7 @@
    "Sound"
   ],
   "summary": "Honorata is a 15-minute multichannel song conceived as a lullaby, commissioned by MUAC for its Espacio de Experimentación Sonora in Mexico City, where it was shown from 11 October 2025 to April 2026. Visitors listen to Nasta's voice with bass, viola, guitar, Rhodes piano, Hammond organ and synthesisers, spatialised across the room's 22 channels by Tobías Álvarez. The piece was composed during Nasta's pregnancy and finished a few months after the birth.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.gaceta.unam.mx/una-cancion-hipnotica-que-arrulla-el-tiempo-un-pop-onirico/",
   "sources": [
    {
@@ -5196,7 +5196,7 @@
    "Sensor / interaction"
   ],
   "summary": "Hotel Infinity is a room-scale VR puzzle game by Studio Chyr, set in a hotel built from non-Euclidean, looping architecture. Players move through hallways and ballrooms by physically walking inside a play area of about 2 x 2 metres, with portals folding the space, and solve puzzles to uncover the hotel's secrets. It was released for Meta Quest and PS VR2 on 13 November 2025 and selected for Venice Immersive 2026.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.labiennale.org/en/cinema/2026/venice-immersive/hotel-infinity",
   "sources": [
    {
@@ -5274,7 +5274,7 @@
    "VR / AR / XR"
   ],
   "summary": "huě iànn is a VR animated video made by a six-person team from the Department of Visual Communication Design at Jinwen University of Science and Technology, Taiwan. It addresses events in Taiwan's history connected to freedom of speech, starting from the Taiyuan incident. It received an Honorary Mention in New Animation Art at Prix Ars Electronica 2023.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://archive.aec.at/prix/277097/",
   "sources": [
    {
@@ -5343,7 +5343,7 @@
    "Screen / monitor"
   ],
   "summary": "An online game for web and mobile, released by Serpentine on 21 May 2026, in which players decide whether to open a door to fictional characters, conspiracy agents or 'Influencers' who ask to enter on the basis of their stated beliefs. The game simulates a real-time feed, and players meet a cast of characters and reach different endings depending on their choices. It is described as the next chapter of THE DELUSION, the multiplayer game exhibition at Serpentine North (September 2025 to January 2026), where a gallery version with a transparent door and a screen was the first work visitors encountered.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.serpentinegalleries.org/about/press/danielle-brathwaite-shirley-ididntrealiseyouthoughtlikethat/",
   "sources": [
    {
@@ -5438,7 +5438,7 @@
    "Network / data"
   ],
   "summary": "A real-time generative installation of infinite runtime in which a historically and geographically ambiguous 3D landscape, generated with game engine technology, is populated with thousands of figures taken from Google Street View and turned into 3D models by a deep neural network. A virtual camera pans endlessly across the landscape, a format the artist relates to 19th-century panorama paintings; a 360° fulldome version (Panorama: I'm Feeling Lucky) was shown at the SAT in Montréal. Sound design and composition by Tatum Wilson.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://timothythomasson.com/i'm-feeling-lucky",
   "sources": [
    {
@@ -5523,7 +5523,7 @@
    "Material / sculpture"
   ],
   "summary": "A digital tool by Bubu Ogisi's label I.AM.ISIGO that archives knowledge of African weaving techniques gathered through research with artisan communities, and lets users create new weaving patterns. It was shown in the S+T+ARTS exhibition at Ars Electronica Festival 2024 in the context of the STARTS4Africa project.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/hope/?p=13421",
   "sources": [
    {
@@ -5608,7 +5608,7 @@
    "Light"
   ],
   "summary": "A prosthetic eye designed, made and worn by the artist, who lost the sight of her right eye as a child; it contains a magnetic sensor, an LED and a battery encapsulated in medical-grade acrylic resin, and lights up when a magnet is brought near. The project, presented with a video, follows an earlier starry-sky-patterned prosthetic eye she wears daily, and received an Award of Distinction in Interactive Art + at Prix Ars Electronica 2024.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://archive.aec.at/prix/290649/",
   "sources": [
    {
@@ -5692,7 +5692,7 @@
    "Screen / monitor"
   ],
   "summary": "An ongoing series of StyleGAN models trained on images of Benin Bronzes looted from the Benin Kingdom during the 1897 British invasion, now held in museum collections. It generates synthetic prototypes of objects that might have been cast during the 17-year interregnum (1897–1914), when no Oba commissioned work; datasets were extended with ceremonial heads in wood and pottery because there were too few bronze images to train the model. The Lumen Prize presentation shows video of latent-space interpolations; the work won the Lumen Prize Global South Award in 2021.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.lumenprize.com/2021-winners/global-majority-winner",
   "sources": [
    {
@@ -5792,7 +5792,7 @@
    "Material / sculpture"
   ],
   "summary": "In 36,000 Ways (Site-Specific Installation) is a single-visitor booth in which the visitor is shown a piece of missile shrapnel the artist collected on front lines in Ukraine. The visitor's presence and physiological signals, including heartbeat, are picked up without contact and shape a low-frequency soundscape. The title refers to the roughly 36,000 fragments a fragmentation weapon breaks into; the booth is a variation of an ongoing project, shown in the IDFA DocLab Competition 2025, with a larger walk-through version in development.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.idfa.nl/en/film/71f50066-72ab-4326-ac6b-80aa0fbc693a/in-36000-ways-(site-specific-installation)",
   "sources": [
    {
@@ -5882,7 +5882,7 @@
    "Screen / monitor"
   ],
   "summary": "A project titled in full 'In a Small Room: The Gap between Advertising and Reality', made as a Royal College of Art (Information Experience Design) degree project, about cramped housing in London and Seoul and the advertising images used to rent it. It has four parts: an interactive web application (CycleGAN) into which visitors put a photo of a real room and receive an advertising-style image, a VR installation of an 'advertising' room entered from a bed in a built room, two films shot in the same Seoul goshiwon room (a documentary and an advertisement), and a research dissertation. It received an Honorary Mention in Digital Humanity at Prix Ars Electronica 2021.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/starts-prize/?p=3717",
   "sources": [
    {
@@ -5965,7 +5965,7 @@
    "Projection"
   ],
   "summary": "A 60-second animated video projection-mapped onto the facade of CHIJMES at the Singapore Night Festival 2025 (22 Aug-6 Sep), commissioned by the National Heritage Board and made by illustrator and motion designer Lim KangLi in the festival's Projection Mapping Masterclass. The animation moves from a ripple down to the seabed, up through maritime routes and back to the surface, with colours drawn from Peranakan porcelain.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://limkangli.net/nightfest-projection-mapping/",
   "sources": [
    {
@@ -6027,7 +6027,7 @@
    "Material / sculpture"
   ],
   "summary": "khalil is a site-specific multimedia installation by Khaled Sabsabi in In Minor Keys, the main exhibition of the 61st Venice Biennale (2026), made of object, video, scent and sound. Its title is the Arabic word for close friend or companion. Sabsabi showed it at the same time as conference of one's self in the Australia Pavilion, and he describes the two as complementary works.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.labiennale.org/en/art/2026/khaled-sabsabi",
   "sources": [
    {
@@ -6108,7 +6108,7 @@
    "Text / print"
   ],
   "summary": "Kissing of the Threshold (Urdu: آستان بوس) is a project by Fazal Rizvi centred on Shia traditions of mourning and remembrance, shown as a new commission at Sharjah Biennial 16 (2025). Dawn's review describes a large-scale installation with buckets of water, a mound representing a grave, and an eight-channel audio work in which the artist's voice recites soz; the Sharjah Art Foundation also published it as a two-part artist book of calligraphy and performative photographs referring to the Ghusaals in Pakistan, who wash and prepare the bodies of the dead.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.dawn.com/news/1902065",
   "sources": [
    {
@@ -6156,7 +6156,7 @@
    "Performance / body"
   ],
   "summary": "Knit II (2021) is a 4K video by Kawita Vatanajyankur, listed on the Simon Lee Foundation Institute of Contemporary Asian Art (AGWA) artist page. It belongs to her knitting works within the Performing Textiles series, in which the artist uses her own body as the mechanism of a knitting machine, weaving red yarn into a web-like fabric on camera. Viewers watch the recorded performance as a video.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://slficaa.artgallery.wa.gov.au/artists/kawita-vatanajyankur/",
   "sources": [
    {
@@ -6250,7 +6250,7 @@
    "Screen / monitor"
   ],
   "summary": "kus (2025) is an installation with audio shown at the Aichi Arts Center (8F) in Aichi Triennale 2025, made by travelling between Mayunkiki's hometown of Asahikawa, Hokkaido, and the Tenryu River basin. Her team recorded sounds of present-day railways and the natural environment and overlapped them with recordings of traditional Ainu song. The work draws on the history of her grandfather Kawamura Kaneto, an Ainu leader and surveying engineer who supervised railway construction between Tenryukyo and Mikawa-Kawai, and was presented together with her performance work kuste.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://aichitriennale.jp/2025/en/artist/mayunkiki.html",
   "sources": [
    {
@@ -6320,7 +6320,7 @@
    "Material / sculpture"
   ],
   "summary": "L'Onde du Midi is a permanent kinetic sculpture commissioned by the Musée du Louvre and inaugurated in January 2020 above the Escalier du Midi (Sully wing). It consists of 128 aluminium tubes suspended from nearly invisible cables driven by motors; computer-programmed sequences move the roughly 10-metre horizontal plane in slow undulations between 3 and 4.5 metres high. Visitors on the staircase watch the shifting configurations.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.eliascrespin.net/londe-du-midi/",
   "sources": [
    {
@@ -6410,7 +6410,7 @@
    "Sensor / interaction"
   ],
   "summary": "La laguna parla is a 35-minute collective, smartphone-guided ritual about the Venice lagoon, water and collective power, made for the tenth anniversary of Venice Immersive (2026), in which hundreds of participants take part with their own phones. It is an adaptation of The Waterbodies Orchestra, an earlier work by The Confluence of European Water Bodies and The Smartphone Orchestra made to give a voice to European water bodies. In Smartphone Orchestra experiences, participants receive instructions, prompts, questions and games on their phones that lead them to interact with the other people in the room.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.labiennale.org/en/cinema/2026/venice-immersive/la-laguna-parla",
   "sources": [
    {
@@ -6489,7 +6489,7 @@
    "Sound"
   ],
   "summary": "Laundry Nocturne (2026) is a multi-channel video projection with field recordings, shown in Fermata: Hong Kong in Venice, the Hong Kong collateral exhibition of the 61st Venice Biennale curated by the Hong Kong Museum of Art. Silhouettes of laundry hung between buildings are projected in the room in a way that simulates moonlight entering through the space's windows. A soundtrack of night-time recordings from Hong Kong, including a wastewater treatment plant, a newspaper-printing facility and a postal sorting centre, plays from a radio in the room.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.theartnewspaper.com/2026/11/04/hong-kong-artists-create-a-poetic-moment-in-venice",
   "sources": [
    {
@@ -6583,7 +6583,7 @@
    "Performance / body"
   ],
   "summary": "Le Miroir is an experimental film produced at Le Fresnoy – Studio national des arts contemporains, in which the artist interacts with her own virtual double, a MetaHuman generated from her appearance, in mental landscapes structured around figures inspired by psychoanalytic archetypes (Ego, Superego, Id, Self). It combines real-time 3D animation, motion capture, photogrammetry, miniature sets and filmed sequences, with a soundtrack of synthesizers and electroacoustic composition. It was shown in Le Fresnoy's Panorama 27 and received an Honorary Mention in New Animation Art at Prix Ars Electronica 2026.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://archive.aec.at/prix/320405/",
   "sources": [
    {
@@ -6659,7 +6659,7 @@
    "Sensor / interaction"
   ],
   "summary": "A GPS-enabled sound walk and light installation commissioned for Singapore Biennale 2025 at Fort Canning Park. Visitors use a GPS-enabled app that guides them to five sites in the park, where audio vignettes based on the artists' encounters with lighthouses, lighthouse keepers and crypto-linguists play; at the Fort Canning Lighthouse, a programmed, looped light cycle runs after dusk. A companion three-channel video, Light Keeper: Signal (2025, 7 min 58 sec), is shown at Fort Canning Centre.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://086708.cargo.site/lightkeeper",
   "sources": [
    {
@@ -6748,7 +6748,7 @@
    "Screen / monitor"
   ],
   "summary": "A Whitney artport commission of seven short videos, one for each day of the week, shown on whitney.org at sunrise and sunset in New York (Apr–Jul 2023). Each video opens on a natural surface (leaves and moss, sand, gravel, snow, broken ice) that the artist's hands push aside to reveal a screen of synthesized video patterns.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://whitney.org/exhibitions/rick-silva",
   "sources": [
    {
@@ -6820,7 +6820,7 @@
    "Sound"
   ],
   "summary": "A digital video with sound commissioned by CIRCUIT Artist Moving Image and shown in the group exhibition Leap to the Place of Two Pools at Te Pātaka Toi Adam Art Gallery, Wellington (1 February – 6 April 2025). According to the gallery, the work pairs technologies of dreaming and AI to imagine Indigenous futures patterned across unceded land, marked by stones whose own language emerges as a conduit to multivocal storytelling.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.adamartgallery.nz/exhibitions/future/leap-to-the-place-of-two-pools",
   "sources": [
    {
@@ -6892,7 +6892,7 @@
    "Text / print"
   ],
   "summary": "An installation in which a plotter machine built by the artist continuously draws maps of Ukrainian terrain on a large roll of paper, translating vegetation-index data (NDRE/NDVI) from the commercial crop-monitoring satellite EOS SAT into colours. The first version focuses on a road between Ivankiv and the Belarus border; later map series, made with ecologists and earth scientists, follow vegetation changes around the destruction of the Kakhovka Dam (6 June 2023) and the first Russian offensive on Kyiv. It was a diploma project at HEAD Geneva and received an Honorary Mention at the S+T+ARTS Prize 2024.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://sonyaisupova.cargo.site/The-Satelitte",
   "sources": [
    {
@@ -6977,7 +6977,7 @@
    "Sensor / interaction"
   ],
   "summary": "An interactive installation in which a synthetic reproduction of singer Maria Arnal's voice, produced by models trained on her voice, harmonises in real time with what a visitor sings into a microphone, forming a human-digital choir; an AI-animated avatar responds to the vocal input. Visitors can also record their voice to contribute to a collective synthetic voice model. It was shown in the exhibition AI: Artificial Intelligence at CCCB, Barcelona (18 Oct 2023 – 17 Mar 2024), developed with the Barcelona Supercomputing Center and axolot.cat, and received an Honorary Mention at the S+T+ARTS Prize 2024.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://starts-prize.aec.at/maria-choir",
   "sources": [
    {
@@ -7068,7 +7068,7 @@
    "Network / data"
   ],
   "summary": "A 1/1 edition in digital and physical form, part of the FUTURED PAST series, commissioned for the Zero 10 section of Art Basel Miami Beach 2025 and shown on the Asprey Studio stand. A digitally sculpted figure of Mother Nature, whose placenta becomes a blind serpent coiled around her leg, was translated into sterling silver by Asprey Studio silversmiths. The digital artwork, issued on a blockchain, is an interactive catalogue in which viewers browse views of the sculpture and a twelve-step creation timeline.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.andreachiampo.com/mater-natvra-asprey-studio-abm",
   "sources": [
    {
@@ -7152,7 +7152,7 @@
    "Material / sculpture"
   ],
   "summary": "Memory Melting is a light installation by Saad Al-Howede shown outside the stc Metro Station at Noor Riyadh 2025. It consists of three large illuminated forms made from discarded plastic toys collected from children around the world and fused together. Some sources describe the forms as spheres and others as oversized emoji shapes.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.arabnews.pk/node/2621560",
   "sources": [
    {
@@ -7224,7 +7224,7 @@
    "Light"
   ],
   "summary": "A site-specific installation across the five underground rooms of the Barracks at Nasir Bagh, Lahore, commissioned for Lahore Biennale 03 (2024). Visitors descend into the former air-raid bunkers and pass through objects, ceramic sculptures, a mud-dyed suspended cloth, plant material and light and video projections, including a room with forty images of the sun's phases on the curved wall facing a row of forty wax candles. The work is built around the image of an eclipse.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://lahorebiennale.org/lb03-artists/ehsan-ul-haq-iqra-tanveer/",
   "sources": [
    {
@@ -7305,7 +7305,7 @@
    "Sensor / interaction"
   ],
   "summary": "MetaPhase is an XR piano performance by pianist and researcher Giusy Caruso with the Milan company LWT3, presented at Cremona Musica on 23 September 2022. Wearing a suit with light-reflecting markers, an sEMG biosensor and an Oculus Rift headset, Caruso plays the counterpoint part of Steve Reich's Piano Phase with an avatar pianist animated from her own previously recorded movements and Yamaha Disklavier audio, while her biosignals modify visuals, video effects and audio parameters. The audience watches the virtual scene projected in real time, can choose viewpoints and view the data, and could afterwards experience the performance in VR; it received an Honorary Mention at the S+T+ARTS Prize 2023.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://starts-prize.aec.at/en/?p=4641",
   "sources": [
    {
@@ -7395,7 +7395,7 @@
    "Robotics / kinetics"
   ],
   "summary": "A video work built from high-magnification microscope recordings of magnetically controlled micro-nano robotic collectives: magnetic microparticles that, under a dual-axis oscillating magnetic field, self-assemble into clusters, grow, tilt and move together. The footage, which the catalogue states is not animated or simulated, is enlarged to projection scale and presented as landscape- and calligraphy-like imagery. Made by Suxuan Jiang with research collaboration from Jiangfan Yu and support from the Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS) SciArt Co-lab; Honorary Mention, New Animation Art, Prix Ars Electronica 2026.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/prix/en/winners/",
   "sources": [
    {
@@ -7483,7 +7483,7 @@
    "Screen / monitor"
   ],
   "summary": "A silent three-channel video installation (48:49 seamless loop) made from three and a half hours of fixed-camera 4K 120fps footage of waves breaking against rocks as the light and tide change. Furusawa's own software turns the footage into a 3D object with time as its depth and cuts it along freely moving planes instead of the usual front-to-back playback, so different moments appear side by side within one frame. Viewers watch the waves keep their form while the rocks appear to metamorphose.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://archive.aec.at/prix/290636/",
   "sources": [
    {
@@ -7573,7 +7573,7 @@
    "Material / sculpture"
   ],
   "summary": "Midéegaadi is a series of videos in which Cannupa Hanska Luger wears bison regalia made from repurposed materials and dances to call bison back onto the land, enacting a Northern Plains ancestral practice. In April 2025 it was shown as a multi-channel presentation on more than 92 electronic billboards in Times Square nightly from 11:57pm to midnight as a Midnight Moment commission with For Freedoms, with a live performance by Mali Obomsawin and Deerlady on 11 April. It is part of the artist's ongoing speculative fiction project Future Ancestral Technologies.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.cannupahanska.com/public-art/times-square",
   "sources": [
    {
@@ -7644,7 +7644,7 @@
    "Performance / body"
   ],
   "summary": "A 35-minute immersive work that combines VR film (360° animation and 180° live-action footage) with live theatre performance and an installation environment of meditation booths, inspired by Tang Xianzu's Ming Dynasty play The Peony Pavilion. Audience members wear headsets inside the installation and, near the end, meet a live actor with mixed reality elements. It was shown in the Future Cinema section of the Shanghai International Film Festival (2025) and out of competition in the Biennale College Cinema – Immersive section of Venice Immersive 2025.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.labiennale.org/en/cinema/2025/venice-immersive/mnemosyne",
   "sources": [
    {
@@ -7711,7 +7711,7 @@
    "Performance / body"
   ],
   "summary": "A multipart mixed-media installation on St John's Island (Pulau Sekijang Bendera), Singapore, commissioned for Singapore Biennale 2022 (Natasha), with performances and activations. In the island's main administrative building a four-pillared structure based on the Javanese saka guru holds a shrine-like arrangement of objects referring to the island's history, with painted cutouts of eight animals from Bugis divination diagrams; visitors follow nine archetypal symbols (The Guide, The Witness, The Wrathful Deity and others). In the garden, eight wind-driven wooden instruments strike bamboo plates, and visitors can also turn them by hand.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://artreview.com/zarina-muhammad-eco-feminism-magic-sorcery/",
   "sources": [
    {
@@ -7796,7 +7796,7 @@
    "Performance / body"
   ],
   "summary": "A sound and video exhibition built from field recordings and footage made on Lagos bridges, especially pedestrian bridges, installed across multiple screens in Odeya Carpark, Onikan, Lagos Island, in November 2025. Visitors move through the audio-visual installation; on the opening day the artist performed the score live with double bass, percussion and flutes.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://contemporaryand.com/en/c-and-magazine/texts/moving-parts-yinka-bernie-s-sonic-bridge-across-lagos",
   "sources": [
    {
@@ -7876,7 +7876,7 @@
    "Sensor / interaction"
   ],
   "summary": "Máquinas Salvajes (Wild Machines) consists of biodegradable mechanical sculptures with wooden skeletons and biopolymer skins (agar-agar and gelatin) made from materials of Costa Rican ecosystems. Two were left in the Sarapiquí rainforest and in Orotina to decay or be eaten, which was documented on video; in the exhibition (Lentos Museum, Linz, 2023) the videos are shown with a third sculpture that a sensor sprays with water when visitors are present, gradually degrading it. The project received a 2023 CIFO-Ars Electronica Award.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/who-owns-the-truth/?p=1804",
   "sources": [
    {
@@ -7965,7 +7965,7 @@
    "AI / generative"
   ],
   "summary": "Night Charades is a silent AI-generated animation commissioned for the LED facade of the M+ museum in Hong Kong, shown nightly from 22 March to 29 June 2025. Animated characters mime around 50 scenes, gestures and poses from 1980s and 1990s Hong Kong cinema, re-enacting roles originally played by actors such as Leslie Cheung, Maggie Cheung and Chow Yun-fat. An algorithm continuously reshuffles the scenes and characters into new combinations, viewed by passers-by across Victoria Harbour.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://mplus.org.hk/en/magazine/night-charades-reimaging-hong-kong-cinema",
   "sources": [
    {
@@ -8060,7 +8060,7 @@
    "Material / sculpture"
   ],
   "summary": "A kinetic installation (265 x 265 x 150 cm) on a sand surface with two machines: a bird-like walking machine that leaves bird footprints in the sand, and a trace-erasing machine following behind that scratches out the tracks with a toothbrush, smooths them with a wire rake and flattens the surface with soft bristles. According to designboom, the movement is triggered by a sensor when a viewer comes close and runs for about two minutes while the viewer stays in range. The duo (Yoo Byoung-Joon and Lim Hee-Young, Seoul) received an Honorary Mention in Interactive Art + at Prix Ars Electronica 2026.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/prix/en/winners/",
   "sources": [
    {
@@ -8144,7 +8144,7 @@
    "Network / data"
   ],
   "summary": "NoSearchBar is a Chrome browser extension that removes the search bar from every website, including search engines such as google.com, and changes the browser's search provider so that searching from the URL address bar is disabled. A user who installs it can only reach content through what websites offer without a search, such as categories, sorting, forecasts and recommendation systems. It was made in the New Media Class at UdK Berlin (winter 2021) and received an Honorary Mention in Interactive Art+ at Prix Ars Electronica 2022.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://newmedia.udk-berlin.de/students/erik-anton-reinhardt/nosearchbar",
   "sources": [
    {
@@ -8230,7 +8230,7 @@
    "Sensor / interaction"
   ],
   "summary": "Nothing to See Here is an interactive viewing box by Celine Daemen and Studio Nergens, installed in public spaces such as train stations. A visitor looks through stereoscopic spyholes in a mirrored cube and sees a live 3D image of themselves from above, peering into the box, while fictional figures (a confused man, a wolf, a plastic bag) and a spatial soundscape act around this double. A prototype was shown at Cultura Nova in Heerlen station in 2025 and the world premiere was at IDFA DocLab in November 2025.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.idfa.nl/en/film/a03ee71b-1364-4658-923c-1d4b855f8d5c/nothing-to-see-here",
   "sources": [
    {
@@ -8320,7 +8320,7 @@
    "Sensor / interaction"
   ],
   "summary": "An installation of 12 trampolines set flush into a desert valley near AlUla to resemble puddles, commissioned for the first Desert X AlUla (2020) and since on permanent display. Visitors can touch, lie on and jump on them; after dark the trampolines are lit and change in appearance as people interact with them. The work addresses water scarcity in Saudi Arabia.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://desertx.org/dx/desert-x-alula-2020/manal-aldowayan",
   "sources": [
    {
@@ -8396,7 +8396,7 @@
    "Online / net art"
   ],
   "summary": "A series of works built on a 3D digital archive of Mexico City's Angel of Independence monument. Gil documented the monument with drone footage and photogrammetry after feminist protests against violence towards women in August 2019, before it was boarded up and restored. The record is shown as video (in one installation on two 55-inch screens, commissioned for Storefront TV) and as photographic prints, and the 3D files can be downloaded.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://julietagil.com/Nuestra-Victoria",
   "sources": [
    {
@@ -8477,7 +8477,7 @@
    "Performance / body"
   ],
   "summary": "A black-and-white single-channel film of about 7 minutes 54 seconds in which the artist, as protagonist, carries out an evening routine of cleansing and self-care alone in a modernist house before nightfall, as unseen presences gather. It borrows the pacing of horror cinema and draws on Aboriginal practices of caring for body and spirit after death. It was commissioned by the National Gallery of Australia for the 4th National Indigenous Art Triennial: Ceremony (2022).",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://lobster-lilac-hmlw.squarespace.com/nyctinasty",
   "sources": [
    {
@@ -8566,7 +8566,7 @@
    "Screen / monitor"
   ],
   "summary": "Oceans in Transformation is a three-year research project by Territorial Agency (John Palmesino and Ann-Sofi Rönnskog), commissioned by TBA21–Academy, that assembles satellite remote-sensing, bathymetric, fishing, shipping and climate data into large dynamic image compositions of the changing world ocean. It was shown as an exhibition at Ocean Space, Church of San Lorenzo, Venice (2020–2021), released online in seven trajectories on Ocean Archive with essays co-edited with e-flux Architecture, and accompanied by 'Messy Studio' gatherings with scientists, activists and policymakers. It won the S+T+ARTS Prize 2021 Grand Prize for Artistic Exploration.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://starts-prize.aec.at/de/?p=3587",
   "sources": [
    {
@@ -8656,7 +8656,7 @@
    "Sound"
   ],
   "summary": "Octopocalypse is an immersive installation for three participants, who enter an interrogation room after a fictional meteor storm and face an alien octopus that communicates through music, touch, rhythm and visions. With questions, button presses and rhythm the group shapes the outcome and builds a music track from impulses sent by the alien, choosing whether to interrogate it or earn its trust. It premiered in the Venice Immersive competition in 2026; the makers say they used generative AI as a production tool.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.labiennale.org/en/cinema/2026/venice-immersive/octopocalypse",
   "sources": [
    {
@@ -8736,7 +8736,7 @@
    "Material / sculpture"
   ],
   "summary": "A three-channel video installation shown at the 59th Venice Biennale (The Milk of Dreams), where Cherri received the Silver Lion for a Promising Young Participant. Shot mainly at a brickyard near the Merowe Dam on the Nile in northern Sudan, it follows a seasonal brickmaker who shapes mud into bricks by day and at night secretly builds a structure of mud and scrap that becomes a creature. It was shown alongside drawings of mud creatures and three sculptural figures, Titans.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://labiennale.org/en/node/10275",
   "sources": [
    {
@@ -8831,7 +8831,7 @@
    "Sensor / interaction"
   ],
   "summary": "Oikeiōsis is a two-room installation by Pavlina Vagioni at Spazio Tana, Venice, presented by the Hellenic Diaspora Foundation during the 61st Biennale Arte (6 May - 25 October 2026). In the first room, Neikos, a polygonal plexiglass cube reflects visitors in fragmented form; in the second, Philotes, six rock-salt seats surround a hexagonal mirrored structure, and when visitors sit, sound and light respond, building a layered vocal soundscape that includes the artist's soprano voice. The salt seats change shape over the exhibition through visitors' touch.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.e-flux.com/announcements/6787233/pavlina-vagionioikei-sis-kinship",
   "sources": [
    {
@@ -8925,7 +8925,7 @@
    "Sound"
   ],
   "summary": "A two-channel video installation (synchronised rear HD projections, colour, four-channel sound, 39 min) on translucent voile screens held in a parallel, trapezoid frame, shown in a shop unit at Lucky Plaza, Orchard Road, for Singapore Biennale 2025. One screen shows Inuka, Singapore's first polar bear born in captivity, circling in his zoo enclosure; the other shows 80km/h (2004), a single-take drive along the Pan Island Expressway filmed from the passenger seat at a constant 80 km/h. Visitors view the two projections overlapping through the frame.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://tanpinpin.com/art/oacd",
   "sources": [
    {
@@ -9001,7 +9001,7 @@
    "Screen / monitor"
   ],
   "summary": "An ongoing series (begun 2021, first shown as a special project commissioned by ART X Lagos in 2022) in which the artist trained a GAN, and later diffusion and video models, on records of extinct and critically endangered flora from the Sahel region of West Africa to generate images of these plants. In the first chapter the generated flowers were curated, animated and composited into artificial gardens installed at exhibitions; the complete series (2022–2024) presents 50 speculative flora across five chapters.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.itsnicethat.com/features/linda-dounia-rebeiz-ai-bias-technology-creative-industry-art-011123",
   "sources": [
    {
@@ -9095,7 +9095,7 @@
    "Online / net art"
   ],
   "summary": "A two-part web work commissioned for the Whitney Museum's artport, made with a generative adversarial network (GAN) trained on thousands of installation photographs of Whitney exhibitions. The first part, Ongoing, Individual Adaptability, shows twelve GAN images collaged with manipulated excerpts of artist correspondence and ephemera from the Whitney's library; the second, How to Quiet Quit, is three videos of the GAN producing images, with soundtracks of TED-talk excerpts by Nick Bostrom, Kai-Fu Lee and Janelle Shane interrupted by the artist's comments and questions. Visitors change the sequence of images and videos by refreshing the page; the title quotes Octavia E. Butler's Parable of the Sower.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://whitney.org/collection/works/66890",
   "sources": [
    {
@@ -9171,7 +9171,7 @@
    "Sound"
   ],
   "summary": "An 8K animation conceived as an installation: a looping cycle of about five minutes showing a giant pyramid filled with hundreds of small black-and-white figures in a hierarchical society, passing through day and night, modelled on Renaissance fresco murals. The installation version has no dialogue and no camera movement; visitors walk along the image and choose which characters and sections to follow. A cinema version was nominated for the 2021 Academy Award for Animated Short Film, and the work received an Award of Distinction in Computer Animation at Prix Ars Electronica 2021.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/newdigitaldeal/en/opera-deepspace8k",
   "sources": [
    {
@@ -9261,7 +9261,7 @@
    "Robotics / kinetics"
   ],
   "summary": "A multimedia project that premiered in October 2025 at Moore College of Art & Design and the Fels Planetarium at The Franklin Institute, Philadelphia. It combines mechatronics, animation and sound with a 360-degree film shown with 8K projection in the planetarium dome, and the opening performance used a robot. The film shows a tornado of debris, including newspaper clippings swirling out of a tornado machine built by the artist; at the 2026 Whitney Biennial it was shown on a 20-ft circular screen overhead (approx. 20 min.).",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.michellelopez.com/exhibitions/2025-pandemonium",
   "sources": [
    {
@@ -9351,7 +9351,7 @@
    "Performance / body"
   ],
   "summary": "An installation of light, sound, choreography and image for Catalonia in Venice, a collateral event of the 61st Venice Biennale (Docks Cantieri Cucchini, 9 May–22 November 2026), curated by Elise Lammer for the Institut Ramon Llull. Four lasers project 15th-century paper watermarks from the archive of the Museu Molí Paperer de Capellades, a sculptural LED screen shows drone footage of four aquifer springs, and performers dressed as jesters deliver monologues in a script structured like a waltz, with a soundtrack. Visitors walk around and onto platforms to change their point of view.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://log.fakewhale.xyz/fakewhale-in-dialogue-with-claudia-pages-rabal/",
   "sources": [
    {
@@ -9441,7 +9441,7 @@
    "Screen / monitor"
   ],
   "summary": "A multi-screen installation shown in its own room at the Hammer Museum's Made in L.A. 2025. It presents the component parts of Stoltz's 16mm film Pinktoned separately: footage of passersby filmed from his East Hollywood studio, faded 1976 slides of Los Angeles streets wheat-pasted with posters for the documentary Underground, and a black-and-white moving graphic. A third screen runs a 16mm optical soundtrack of 'pink tone' test frequencies on a loop, and visitors see the street footage and the slides across the room from each other.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://hammer.ucla.edu/made-la-2025/mike-stoltz",
   "sources": [
    {
@@ -9521,7 +9521,7 @@
    "Light"
   ],
   "summary": "Pixel Dust is a video of pulsating particles made with the artist's custom software, premiered as Times Square Arts' Midnight Moment for November 2025. It played synchronized on over 90 electronic billboards in Times Square nightly from 11:57pm to midnight, November 1-30, 2025.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.timessquarenyc.org/tsq-arts-projects/pixel-dust",
   "sources": [
    {
@@ -9597,7 +9597,7 @@
    "Camera / computer vision"
   ],
   "summary": "An installation lasting several months in which cucumber plants grown from seed and an AI-controlled robot about three metres tall interact. The robot moves 36 bouncy balls on stainless steel threads above a tray of plants; a camera and a 3D scanner (scanning every 15 minutes) feed the AI, and when a plant's tendril grabs a ball, that ball stops moving. Produced in 2020 by Kersnikova Institute / Kapelica Gallery (European ARTificial Intelligence Lab), it received an Honorary Mention at Prix Ars Electronica 2021.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.spelapetric.org/plai/",
   "sources": [
    {
@@ -9686,7 +9686,7 @@
    "Performance / body"
   ],
   "summary": "Pocket Money is a video work of about 15 minutes, shot between September and December 2025, featuring about 20 young people from in and around Adelaide in their first paid jobs, such as fast food and shelf-stacking, as well as at rest in their bedrooms, spending money and pursuing hobbies. It was shown in the 2026 Adelaide Biennial of Australian Art: Yield Strength (27 February – 8 June 2026).",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.agsa.sa.gov.au/whats-on/exhibitions/2026-adelaide-biennial-of-australian-art-yield-strength/emmaline-zanelli/",
   "sources": [
    {
@@ -9776,7 +9776,7 @@
    "Material / sculpture"
   ],
   "summary": "An algorithmic garden-design tool and website (pollinator.art) that generates planting designs computed to support the greatest number of pollinator species, choosing from curated regional plant palettes. Users select their garden conditions, receive a unique design they can explore in 3D or with a 'pollinator vision' view, and download planting instructions with an edition certificate; each planted garden is an edition of the work. Commissioned Editions have been planted at the Eden Project, Cornwall (2022), for the Serpentine in Kensington Gardens, London, and outside the Museum für Naturkunde Berlin (LAS Art Foundation); it won the S+T+ARTS Grand Prize 2023.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.daisyginsberg.com/work/pollinator-pathmaker",
   "sources": [
    {
@@ -9860,7 +9860,7 @@
    "AI / generative"
   ],
   "summary": "Prometheus Firebringer is a lecture-performance of about an hour on generative AI, technology and power. On one side of the stage, a chorus of AI-generated Greek masks with AI-generated voices performs a new version each night of the lost final play of Aeschylus' Prometheia trilogy, generated by a GPT language model; on the other side, Dorsen delivers a talk composed entirely of passages quoted from other texts. It premiered at Bryn Mawr College in January 2023 and was then presented at The Chocolate Factory, Theatre for a New Audience and REDCAT.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://mediaartexploration.org/?p=2027",
   "sources": [
    {
@@ -9959,7 +9959,7 @@
    "Material / sculpture"
   ],
   "summary": "puberty is an installation commissioned for the Simon Lee Foundation Institute of Contemporary Asian Art at the Art Gallery of Western Australia, shown in the gallery foyer from 22 July to 11 December 2022. It combines animation on an iPad with cast acrylic, chain, fans and synthetic turf, forming a face whose eyes, nose, tongue and mouth are described by the venue as moving elements.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://slficaa.artgallery.wa.gov.au/program/puberty/",
   "sources": [
    {
@@ -10047,7 +10047,7 @@
    "Projection"
   ],
   "summary": "A two-channel video installation, the third film of a trilogy made on the Transamazônica highway (BR-230), shown in MASP's Video Room. It shows scenes of the highway under a fleeting glow that suggests a 'second Sun' approaching Earth, set against a text that tells a physical and existential journey. The project began during a residency at the Centro Cultural do Cariri awarded at the 22nd Bienal Sesc_Videobrasil.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://inresidence.videobrasil.org.br/2024/09/23/janaina-wagner-quando-o-segundo-sol-chegar/",
   "sources": [
    {
@@ -10119,7 +10119,7 @@
    "Text / print"
   ],
   "summary": "Quine is a generative series of 497 blockchain-based artworks by Larva Labs (Matt Hall and John Watkinson), released on October 9, 2025 as the final Art Blocks Curated project. Each work's image contains the source code of the program that generates it, laid out on a grid; some outputs reproduce themselves exactly while others cycle through several generations, and collectors can choose which generation to display. At Zero 10, Art Basel Miami Beach 2025, all 497 works were shown in miniature on a vitrine table, with 10 shown as signed, framed works.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.artblocks.io/collection/quine-by-larva-labs",
   "sources": [
    {
@@ -10203,7 +10203,7 @@
    "Performance / body"
   ],
   "summary": "Radio Ghost is an audio-driven, app-based walking game for three players set in a shopping centre, part game, part interactive radio show and part ghost hunt. Players act as ghost hunters, following audio prompts on phones and blending in as shoppers to unlock stories of the mall connected to the supply chains of the goods on sale. It was commissioned by LIFT Festival 2022 and won the Lumen Prize Interactive Award 2022.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://zu-uk.com/project/radio-ghost/",
   "sources": [
    {
@@ -10288,7 +10288,7 @@
    "Network / data"
   ],
   "summary": "Raster und Spectrum is an onchain abstract real-time animation that can play on any device, shown by Nguyen Wahed in the Zero 10 section of Art Basel Miami Beach 2025. Two brushes — a raster of white lines on black and a spectrum that continuously cycles through hues — cross the screen in one of eight directions and return when they meet an edge.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.rightclicksave.com/article/zero-10-digital-art-goes-mainstream-at-art-basel-miami-beach",
   "sources": [
    {
@@ -10373,7 +10373,7 @@
    "Material / sculpture"
   ],
   "summary": "Re: cite, member, sist is a site-specific installation with textile, 4-channel sound and found material, commissioned for Colomboscope 2026 (Rhythm Alliances) and shown at Colpetty Town House, Colombo. According to the festival publication it combines layered cyanotypes, shadow drawings referencing early illustrations of Portuguese colonial exploits, tracings of the artist's grandmother's embroidery patterns on cushions, curtains and household objects, and sound recordings of ocean tides and dialogues with her aunt. It draws on the artist's family's Goan history and her grandmother's migration from Bardez to Karachi.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "",
   "sources": [
    {
@@ -10458,7 +10458,7 @@
    "Sound"
   ],
   "summary": "A 21-minute dome documentary, world-premiered in the IDFA DocLab Competition for Immersive Non-Fiction in 2025 and shown in the DocLab Exhibition and at the Planetarium, directed by Anne Jeppesen with co-director Omid Zarei (Superposition XR Studio). Jeppesen's narration moves through quantum observation, split déjà vu, parallel realities and the death of her elderly hamster Oliver, over documentary footage processed into Gaussian splats. The work began as an audio piece made in the YASS! mentorship programme (Lucia Festival / Radio Papesse), premiered in Florence in 2024.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.idfa.nl/en/film/77e673c5-0441-4c2f-9dc2-6b268638c724/reality-looks-back",
   "sources": [
    {
@@ -10538,7 +10538,7 @@
    "Network / data"
   ],
   "summary": "Regular Animals is an installation of autonomous robot dogs fitted with hyper-realistic silicone heads of figures including Andy Warhol, Pablo Picasso, Elon Musk, Mark Zuckerberg, Jeff Bezos and Beeple himself, which move around a glass-walled pen using LIDAR to avoid each other. The robots take pictures of their surroundings, reinterpret them with AI in the style associated with each character, and print them out of their rear; some of the prints carry QR codes to claim NFTs. It was first shown at Art Basel Miami Beach's Zero 10 section in December 2025 and later at the Neue Nationalgalerie, Berlin, in 2026.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.the-berliner.com/art/beeple-regular-animals-art-exhibition-neue-nationalgalerie/",
   "sources": [
    {
@@ -10628,7 +10628,7 @@
    "Sound"
   ],
   "summary": "A series of language artworks combining AI-generated text, code-based visuals sketched in p5.js, and digitally looped and layered spoken word, presented as standalone works and longer interconnected cycles built around repetition. Parts include a browser-based piece that generates a new line of poetry every few minutes from the mantra WORDS CAN COMMUNICATE BEYOND WORDS. It received a Prix Ars Electronica 2024 Award of Distinction (AI in ART) and was shown as REPETAE: Again, Again at the Lentos Museum, Linz.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.thisispaper.com/mag/repetae-series-sasha-stiles",
   "sources": [
    {
@@ -10718,7 +10718,7 @@
    "Sound"
   ],
   "summary": "An installation centred on a four-metre-tall armless robotic figure on a steel and hydraulic structure, whose hyperrealistic face is a projected animation built from a motion-capture recording of Thomas Kvam. In a darkened room with multichannel sound, the robot delivers a monologue written by the artists and voiced with AI speech synthesis, tracing genocide through human history from the disappearance of the Neanderthals; there is no interactivity. First shown at Meta.Morf 2024 in Trondheim (co-produced by TEKS); Golden Nica, New Animation Art, Prix Ars Electronica 2025.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/aeblog/?p=80241",
   "sources": [
    {
@@ -10802,7 +10802,7 @@
    "Material / sculpture"
   ],
   "summary": "Rhythmic Ramp (Rampa rítmica) is a site-specific work by Cevdet Erek on the external ramp of Oscar Niemeyer's Ciccillo Matarazzo Pavilion at the 36th Bienal de São Paulo, the ramp that connects the exhibition's floors. It combines sonic and geometric elements placed along the ramp. Its sound includes rhythmic patterns drawn from music undergrounds in Istanbul and from São Paulo's vernacular rhythms, and visitors and passersby meet it as they go up and down the ramp.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://36.bienal.org.br/en/artista/cevdet-erek-en/",
   "sources": [
    {
@@ -10877,7 +10877,7 @@
    "Performance / body"
   ],
   "summary": "Ri-lancia Luigi Broglio is a 33-minute 360° VR film directed by Vincenzo Cavallo, staged like a theatre piece, about Luigi Broglio, who launched Italy into space from the San Marco sea platform off Kenya in the 1960s. The viewer watches a confrontation between Broglio and a journalist in the abandoned command centre, with flashbacks to the African expedition, an encounter with Enrico Mattei and a near-diplomatic crisis with President Nasser. It was supported by Biennale College Cinema Immersive and shown out of competition at Venice Immersive 2025.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.labiennale.org/en/cinema/2025/venice-immersive/ri-lancia-luigi-broglio-re-launching-luigi-broglio",
   "sources": [
    {
@@ -10949,7 +10949,7 @@
    "Sound"
   ],
   "summary": "Résonances is an interactive installation in which a visitor's gestures return as a visual and sound echo: earlier actions resurface and overlap with present ones, so the visitor can choreograph the present on top of their own past. It was unveiled in December 2021 in the CORPS DATA exhibition at Îlot Balmoral in Montreal with ELEKTRA, and shown at the 6th International Digital Art Biennial (BIAN) at Arsenal Contemporary Art Montreal; an outdoor edition was presented at i Light Singapore 2023 and Future Media FEST 2024 in Taipei.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://artsandculture.google.com/asset/r%C3%A9sonances-louis-philippe-rondeau/QQFIQFxHwAm3Ig",
   "sources": [
    {
@@ -11035,7 +11035,7 @@
    "Sound"
   ],
   "summary": "Sange Khara [Hard Stone] is an installation developed for the 36th Bienal de São Paulo, anchored by a looping 16mm film of desert and oasis landscapes and figures drawn from cinematic references. Visitors sit or lie down under a tent-like canopy of melhifa cloth, a fabric worn by women in the Sahara, in a scenography based on nomadic structures of southern Morocco, surrounded by sound and light. It is a chapter of Hida's ongoing project Le Voyage du Phénix.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://36.bienal.org.br/en/artista/laila-hida-en/",
   "sources": [
    {
@@ -11114,7 +11114,7 @@
    "Online / net art"
   ],
   "summary": "Three witch figures in an installation shown at the Whitney Biennial 2026 that draws on scenes from American history, from the Salem witch trials to Abraham Lincoln's birth near Hodgenville, Kentucky. The witches' bodies are built from open-source medical 3D CT scans of human bodies, and two Salem villagers nearby are built from character models taken from the video game Doom. Visitors walk among figures mounted on metal poles alongside the artist's Symbolic Birth Cabin Unit and two demon figures.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://whitney.org/exhibitions/2026-biennial/art?section=41",
   "sources": [
    {
@@ -11185,7 +11185,7 @@
    "AI / generative"
   ],
   "summary": "Screen Melancholy (2026) is a video installation by Li Yi-Fan, presented by the Taipei Fine Arts Museum as Taiwan's collateral event at the 61st Venice Biennale in the Palazzo delle Prigioni, curated by Raphael Fonseca. In the video, Li performs a monologue through a game-engine digital character in the tone of an online tutorial, addressing subscription-based image software and AI-generated images. Large sculptures of fragmented limbs are placed throughout the space; visitors can sit on them and charge their phones from chargers built into the sculptures.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://hyperallergic.com/taiwan-presents-screen-melancholy-li-yi-fan-at-the-venice-biennale/",
   "sources": [
    {
@@ -11270,7 +11270,7 @@
    "Material / sculpture"
   ],
   "summary": "Skeleton of the Glorious is a light installation by Khalid Zahid in the gardens of the King Abdulaziz Historical Center for Noor Riyadh 2025. It is a hollow, wireframe-like structure based on Al-Masmak Fort, the adobe and clay citadel of old Riyadh. It is lit from within, so the inner form is visible while the exterior falls into shadow.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.archdaily.com/1036858/in-the-blink-of-an-eye-60-light-installations-illuminate-a-citywide-gallery-for-noor-riyadh-2025",
   "sources": [
    {
@@ -11328,7 +11328,7 @@
    "Screen / monitor"
   ],
   "summary": "A two-part Whitney artport commission for the Sunrise/Sunset series (Dec 2022–Apr 2023) that played on whitney.org at sunrise and sunset in New York. SKY/WORLD pairs game-engine animations of dawn, drawing on the Haudenosaunee story of Sky Woman, with the question \"Who benefits from your burnout?\"; DEATH/WORLD pairs abstract visuals and video of the artist recovered from the Internet Archive with \"What is made bright by the loss of your light?\". Viewers can click a switch to change the animation while answering text populates the screen.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://whitney.org/exhibitions/amelia-winger-bearskin",
   "sources": [
    {
@@ -11418,7 +11418,7 @@
    "Network / data"
   ],
   "summary": "SMOG SEASON is an installation of 80 cigarette packs mounted on 5 motor-driven circular bases, using Bangkok PM 2.5 air-pollution data and the cigarette-equivalence figure from Berkeley Earth (one cigarette per 22 micrograms per cubic meter per day). Visitors scan a QR code, choose a smoke level on their smartphone and hold it to a light sensor; the bases spin and lights blink at 18 FPS so the cigarette-label pictures appear animated, while an LED display shows the date, time and PM 2.5 value. It received an Honorary Mention in Prix Ars Electronica 2023 (New Animation Art).",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://archive.aec.at/prix/276128/",
   "sources": [
    {
@@ -11489,7 +11489,7 @@
    "Sound"
   ],
   "summary": "A 4m30s data animation based on NASA's Blue Marble photograph: a counter shows atmospheric methane in parts per billion from 1970 to the present while the rotating globe fills with pink smoke, and advertising slogans from the oil industry (e.g. \"Out to clean the air\", \"Unsettled Science\", \"Doomsday is cancelled\") appear across the screen at their dates. It is set to the song \"Oh My Heart\" and was produced with the studio Parliament, using NOAA, NASA and EEA data. It received the Prix Ars Electronica Golden Nica (New Animation Art) in 2024 and has been shown as a video and in exhibitions.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/aeblog/?p=77214",
   "sources": [
    {
@@ -11579,7 +11579,7 @@
    "Sensor / interaction"
   ],
   "summary": "Soft Collision is a deformable pneumatic silicone membrane with embedded sensors that wraps a UR5 industrial robot arm. A person physically pushes and guides the arm to program its movement, then adjusts its trajectory through the sensors while it replays; air chambers inflate in short bursts as feedback. It was developed in the VOJEXT S+T+ARTS residency and shown with a performer.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://anna-schaeffner.com/Soft-Collision",
   "sources": [
    {
@@ -11659,7 +11659,7 @@
    "Sensor / interaction"
   ],
   "summary": "Solwata is a 25-minute mixed reality installation, narrated by Mark Ruffalo, about rising seas and planned relocation in the Solomon Islands, co-produced by Human Rights Watch, Agog: The Immersive Media Institute and NowHere Media and shown in Venice Immersive 2026. Participants interact with water and artifacts and, through 360° video, Gaussian splats and 3D animation, join community members Martha, Francis and Lawrence. It was made with residents of Walande, Ngongosila and Kwai.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.labiennale.org/en/cinema/2026/venice-immersive/solwata",
   "sources": [
    {
@@ -11744,7 +11744,7 @@
    "Material / sculpture"
   ],
   "summary": "A 30-minute HD film with installation, co-commissioned by the 13th Gwangju Biennale, Kunsthall Trondheim and the Han Nefkens Foundation, narrated by the voice of a sea turtle, that combines footage around the death and funeral of the artist's grandfather with Jeju Island's shamanic rituals commemorating the 1948 uprising and the 2020 pro-democracy protests in Thailand. In the installation the video is accompanied by a diorama figure of gravel, moss, clay, modelled roots and banana leaves, with hands cast from the grandfather's. It opened at Kunsthall Trondheim in February 2021 and was shown at the Gwangju Biennale the same year.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.thewhitereview.org/feature/interview-with-korakrit-arunanondchai",
   "sources": [
    {
@@ -11838,7 +11838,7 @@
    "Screen / monitor"
   ],
   "summary": "A listening space commissioned by Sharjah Art Foundation and Bergen Assembly, shown at Sharjah Biennial 16 (Bait Al Serkal, 6 February – 15 June 2025) and then at the fifth Bergen Assembly. It presents recordings, interviews and performance videos from Singing Wells' archive of East African music. Singing Wells was founded in 2011 by Nairobi's Ketebul Music and London's Abubilla Music, and travels to villages with a mobile recording studio.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://loophole.art/articles/sharjah-biennial-16",
   "sources": [
    {
@@ -11924,7 +11924,7 @@
    "AI / generative"
   ],
   "summary": "Speak Slowly and It Will Become a Song (2025) is an outdoor sound installation on the Lawn Square of the Aichi Prefectural Ceramic Museum in Seto, commissioned for the performing arts programme of Aichi Triennale 2025. Visitors walk the lawn wearing headphones; with high-resolution GPS and three-dimensional audio, the sounds change with the visitor's movement. The material includes folk songs and life songs improvised by local women, voices and interviews from Seto, and sounds of clay, water, fire and vegetation, with surrounding background sound that the artist says was interpreted by AI.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://aichitriennale.jp/2025/en/artist/kwon-byungjun.html",
   "sources": [
    {
@@ -12000,7 +12000,7 @@
    "Network / data"
   ],
   "summary": "Spray and Pray is a 15-minute speculative animated documentary in Bulgarian about 'mushroom websites', automatically generated news sites that earn advertising revenue by spreading disinformation. Its CGI characters are built from anonymised research data and performed roles and speak with synthetic voices; a mushroom figure speaks only in headlines collected from such sites, which were also analysed with Bulgarian-language machine-learning models. It premiered at Visions du Réel in 2026 and is shown in the Bulgarian Pavilion at the 2026 Venice Biennale.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/prix/en/winners/",
   "sources": [
    {
@@ -12090,7 +12090,7 @@
    "AI / generative"
   ],
   "summary": "A CGI short film set in Mojo, a fictional future in which Black culture transforms American landscapes. It follows Demetrius, a tea master in the Crimson Needles gang, which uses colored flora to mark territory, as he relives being reprimanded for his fascination with a forbidden blue plant. Credits list music by Nathan Buttel and Jeremy Kamal and AI creative direction by Case Miller; it received a Prix Ars Electronica 2024 Award of Distinction in New Animation Art.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/hope/?p=7756",
   "sources": [
    {
@@ -12179,7 +12179,7 @@
    "Text / print"
   ],
   "summary": "A grid of archival prints on canvas (54 x 54 inches) made with AI models trained on a dataset of European floral still-life paintings. The central image comes from a model trained slowly on whole paintings; the surrounding images come from a model trained quickly on randomly cropped details of the same paintings. It was shown in custom frames in Agrawal's solo exhibition EXO-stential: AI Musings on the Posthuman at Emami Art, Kolkata, in September 2021; a related video work is titled (Un)Still Life.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://takeonartmagazine.com/reviews/re-cognizing-ai-art-looking-back-forward/",
   "sources": [
    {
@@ -12258,7 +12258,7 @@
    "Sound"
   ],
   "summary": "A video work commissioned for the 36th Bienal de São Paulo, shown in a film booth that is introduced by a painted mural at its entrance, with the artist's own narration. The narration retells Greek mythology and African folklore through twin giant brothers whose rivalry splits the earth, and stages the split between Pão de Açúcar in Rio de Janeiro and Morro do Moco in Huambo, Angola.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://36.bienal.org.br/en/artista/helena-uambembe-en/",
   "sources": [
    {
@@ -12339,7 +12339,7 @@
    "Screen / monitor"
   ],
   "summary": "A 60-minute music theatre piece commissioned by the City of Munich for the Münchener Biennale and co-produced with the ZKM Hertz-Lab, performed by contralto Noa Frenkel and sound engineer Sebastian Schottke in an installation of three large screens, nine loudspeakers, MIDI-DMX lighting and a wooden cube. Its framing text presents it as an EU-commissioned project in which the performers create live replicas of moments from audiovisual media history, with an interview series published in parallel on Instagram. It received an Honorary Mention in Digital Musics & Sound Art at Prix Ars Electronica 2021.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://archive.aec.at/prix/255800/",
   "sources": [
    {
@@ -12430,7 +12430,7 @@
    "Screen / monitor"
   ],
   "summary": "A Whitney artport commission of seven animated black-and-white architectures, one for each weekday, that translate the layout of blocks of text and images on whitney.org into an abstract building populated by wandering figures, centred on a round sun icon and interspersed with text generated by the artist using AI. It first played on the museum website at sunrise and sunset in New York (Sunrise/Sunset series, from July 2023) and from September 2024 ran hourly, opening the On the Hour series.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://whitney.org/exhibitions/peter-burr",
   "sources": [
    {
@@ -12497,7 +12497,7 @@
    "Network / data"
   ],
   "summary": "System's Void is a sound installation that translates danger signals from Hazardous Gas System (HGS) monitoring at four fracking wells in the United States into sound, accompanied by a video projection of chemical codes used to classify chemicals. At the 2026 Whitney Biennial the sound was amplified through the large pipe in the museum's central staircase; an earlier version, commissioned by the 15th Gwangju Biennale in 2024, was a five-channel sound installation with sand, steel pipes, speakers and amplifiers.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://whitney.org/exhibitions/2026-biennial/art?section=53",
   "sources": [
    {
@@ -12583,7 +12583,7 @@
    "Sensor / interaction"
   ],
   "summary": "Taala Village ('Village of Rhythms') is a pixel-art video game newly commissioned for Colomboscope 2026 (Rhythm Alliances). Players move through a virtual island where actions are accompanied by sounds of Sri Lankan instruments such as the thalampata, drums and conch shells, and meet a speculative community that worships fire and practises rituals, legends and folklore, with settings drawn from kovils, Buddhist temples and village habitats.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "",
   "sources": [
    {
@@ -12636,7 +12636,7 @@
    "Light"
   ],
   "summary": "TAFAA – Fertility Device (Uncanny Valley) is a sculpture from Chloé Delarue's FERTILITY DEVICE group, part of her ongoing TAFAA (Toward A Fully Automated Appearance) cycle, and is in the collection of HeK (House of Electronic Arts), Basel. Works in the FERTILITY DEVICE group, as documented by her gallery and other collections, combine metal frames, LCD screens showing video, latex, glass, resin and neon or LED light into free-standing or wall-leaning objects that visitors walk around. The specific materials and dimensions of this piece could not be confirmed from a readable source.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "",
   "sources": [
    {
@@ -12703,7 +12703,7 @@
    "Performance / body"
   ],
   "summary": "TALK SHOW is a 27-minute color film with sound, the final part of Jordan Strafer's Loophole trilogy, shown in a dark gallery with armchairs at the Whitney Biennial 2026. It unfolds across two periods: the turn of the millennium, shot in color (including a reenactment of John F. Kennedy Jr.'s last radio exchange before his 1999 plane crash), and the afterlife, shot in black and white. Most of the film is a daytime talk show in which a host questions a panel of men who confess to rapes while the women they raped watch from backstage; the screenplay draws on news footage and self-help media.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://whitney.org/exhibitions/2026-biennial/art?section=52",
   "sources": [
    {
@@ -12780,7 +12780,7 @@
    "Material / sculpture"
   ],
   "summary": "A circular sound installation in which long copper flutes connected to glass bulbs are suspended and moved by a mechanical system that dips them into a basin of water; the filling and emptying of the bulbs pushes air through the tubes and makes them sound. The water was collected from the upper Tietê River, is kept oxygenated during the show and was to be returned to the river afterwards. Visitors sit on benches arranged around the basin and listen; at the 36th Bienal de São Paulo the work was also activated by performances by Vásquez and Esmeralda Ramírez (Werebere group).",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://36.bienal.org.br/en/artista/leonel-vasquez-en/",
   "sources": [
    {
@@ -12878,7 +12878,7 @@
    "Sound"
   ],
   "summary": "A sound work built from recordings in the Sound Archive of the Royal Museum for Central Africa (Tervuren), field recordings and synthesizers, presented as shorter fixed-media pieces and a longform radiophonic piece. It received an Honorary Mention in Digital Musics & Sound Art at Prix Ars Electronica 2023 and was exhibited at the Ars Electronica Festival 2023; it also received an Honorary Mention at the 2023 Prix Palma Ars Acustica.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/who-owns-the-truth/?p=9470",
   "sources": [
    {
@@ -12966,7 +12966,7 @@
    "Screen / monitor"
   ],
   "summary": "A three-minute animated short film about a Chinese international student's year of study in the UK, in which identical closed-eyed ragdoll figures are pushed through the system. It received an Honorary Mention in the New Animation Art category of Prix Ars Electronica 2024.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://archive.aec.at/prix/290625/",
   "sources": [
    {
@@ -13035,7 +13035,7 @@
    "VR / AR / XR"
   ],
   "summary": "An XR project on Tanzania's daladala minibuses, developed in the S+T+ARTS4Africa residency hosted by OnaStories and shown at Ars Electronica 2024. The 2026 version is a 5-minute 360° immersive documentary for Meta Quest in which the viewer rides along with Fatuma, the only female conductor on the Mawasiliano–Masaki route in Dar es Salaam.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/hope/?p=13256",
   "sources": [
    {
@@ -13116,7 +13116,7 @@
    "Network / data"
   ],
   "summary": "An installation developed from the Zero Pollution Adriatic residency (UR Institute, STARTS4Water, 2021/2022) on how anthropogenic liquid waste and low oxygen levels affect sea urchin habitats in the southern Adriatic. It combines glassblown sculptures based on laboratory experiments exposing sea urchins to pollutants with experimental setups and synchronised screens showing three decades of Copernicus environmental data (temperature, pH, oxygen, salinity) transformed with AI. It received an Honorary Mention at the S+T+ARTS Prize 2024.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/starts-prize/?p=10939",
   "sources": [
    {
@@ -13210,7 +13210,7 @@
    "Camera / computer vision"
   ],
   "summary": "A work shown at Lahore Biennale 03 drawn from about fifteen years of Qaiser's photographic and film recording in the mangrove forests of Bundal and Khiprianwala Islands, Korangi Creek, Karachi, documenting the forest and its cutting. It builds on more than 200 short films he has made and distributed weekly, with notes, as an open educational resource.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://lahorebiennale.org/lb03-artists/tariq-alexander-qaiser/",
   "sources": [
    {
@@ -13295,7 +13295,7 @@
    "Network / data"
   ],
   "summary": "The Great Orator is a 40-minute nonlinear VR story world by Daniel Ernst (The Shoebox Diorama) about a TV preacher whose consciousness lives on as an AI after her death. The visitor explores spaces such as a preserved house, a mainframe holding her followers' shared consciousness and an infinite parking lot, and points a hand at objects to receive her memories, which are generated from the visitor's interaction, random Internet input and live news feeds and differ on each visit. It premiered at Venice Immersive 2025.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.labiennale.org/en/cinema/2025/venice-immersive/great-orator",
   "sources": [
    {
@@ -13385,7 +13385,7 @@
    "Performance / body"
   ],
   "summary": "The Innocence of Unknowing is an AI archival project, two-channel essay film and live performance examining U.S. news media coverage of mass shootings since the 1960s, studying footage of people retreating. In the performance the artists question an AI model, trained on humanities texts, about its readings of the archive footage, shown alongside computer-vision analyses such as object and pose detection. It had its world premiere at Tribeca Immersive 2025 ('In Search of Us').",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://voicesofvr.com/1572-the-innocence-of-unknowing-uses-socratic-dialogue-with-ai-video-essay-to-deconstruct-root-cases-of-gun-violence/",
   "sources": [
    {
@@ -13460,7 +13460,7 @@
    "Screen / monitor"
   ],
   "summary": "A web-based animation with an augmented-reality layer, commissioned for the Whitney Museum's artport and co-commissioned by KW Institute for Contemporary Art, Berlin. In the browser, a ghostly female figure drawn in a manga style moves through layers of interfaces, elements of whitney.org, a graph of the nervous system, a web console, parental-guidance alerts and military infrared imagery; scanning an on-screen QR code opens an AR layer on the viewer's phone that adds text and moves the figure out of the browser onto the device. A site-specific version (five-channel video, LED screens, sculpture and a hand-tracking VR environment) was shown 15–18 September 2022 at the Tieranatomisches Theater, Berlin.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://whitney.org/exhibitions/the-maw-of",
   "sources": [
    {
@@ -13555,7 +13555,7 @@
    "Projection"
   ],
   "summary": "The Oracle: Ritual for the Future is a 60-minute immersive performance by Victorine van Alphen (Studio Brave New Human) in which the audience moves through a 360-degree screen environment. Starting from the personal story and archival material of two AI enthusiasts, the audience is first given control and then overtaken by non-human entities and AI-generated images; in one scene, audience members who consented have their image altered by AI. It premiered at IDFA DocLab 2025.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.idfa.nl/en/film/c3aac403-e1f4-4044-bd52-0801cecb9baa/the-oracle:-ritual-for-the-future-(for-humans-and-non-humans)",
   "sources": [
    {
@@ -13640,7 +13640,7 @@
    "Material / sculpture"
   ],
   "summary": "The Power Loom is a multimedia installation that digitally weaves African textiles. It is one part of The Founders Pillars; the other part is a site-specific augmented reality experience that uses the same patterns to wrap the columns of the New York Stock Exchange as a memorial to enslaved peoples. It had its world premiere at Tribeca Immersive 2025 ('In Search of Us', WSA / Water Street Projects, 6–29 June 2025), and the project received a S+T+ARTS Prize Africa Award of Distinction in 2025.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://tribecafilm.com/films/power-loom-and-the-founders-pillars-2025",
   "sources": [
    {
@@ -13726,7 +13726,7 @@
    "Material / sculpture"
   ],
   "summary": "The Quiet Weight of Shadows is an installation shown at Aspinwall House in the Kochi-Muziris Biennale 2025-26 about the history of the ULFA insurgency in Assam. Visitors walk through a field of red- and green-lit artificial carnivorous plants that emit news broadcasts from the 1990s to 2010 in Assamese, Hindi and English, with watchtowers in which video interviews with former ULFA members play, and a reconstructed burnt house holding real archival newspapers, photographs, pamphlets and documents. The installation also screens the artist's film Whispers Beneath the Ashes (2025).",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.onmanorama.com/news/kerala/2026/01/03/kochi-muziris-biennale-dhiraj-rabha-assam-insurgency-art-installation.html",
   "sources": [
    {
@@ -13815,7 +13815,7 @@
    "Online / net art"
   ],
   "summary": "A digital portrait painted in Photoshop and posted online in June 2020: a figure in red hues with uncoloured eyes against a red background. After it circulated widely on social media, the artist sold prints of it and it was later sold as an NFT on SuperRare.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.anthonyazekwoh.com/",
   "sources": [
    {
@@ -13909,7 +13909,7 @@
    "Performance / body"
   ],
   "summary": "The Rift is a 6-minute 360° fulldome dance film shot in Zimbabwe, in which four dancers perform a shared choreography across forests, plains, urban settings and abandoned or painted buildings, with water as the unifying element. It premiered at IDFA DocLab in November 2025, shown in the ARTIS-Planetarium dome in Amsterdam and in a smaller dome in the DocLab Exhibition. It was made by 4Pi Productions (Wales) with Matamba Film Labs and AfriKera Arts Trust (Harare) through the XR Labs collaboration.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.4piproductions.com/360-films/the-rift/",
   "sources": [
    {
@@ -14004,7 +14004,7 @@
    "Network / data"
   ],
   "summary": "A software-driven generative animation made with James Schmitz and Blake Goble and shown on a large video wall on the Whitney Museum's fifth-floor terrace (Hyundai Terrace Commission, April 2025 – January 2026). It shows the Hudson River split between life above and below the water and changes by algorithmic probability with real-time weather, season, tides and marine traffic. The terrace also holds oyster reef balls and marine debris, and a special edit ran nightly on Times Square billboards in September 2025 as a Midnight Moment.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://o-matic.com/?p=9460",
   "sources": [
    {
@@ -14095,7 +14095,7 @@
    "Material / sculpture"
   ],
   "summary": "An installation at Aichi Triennale 2025 in a former greengrocer's shop in a Seto shopping arcade, with a display window covered in mirrors. Visitors enter through an automatic door into a room where the floor is covered with Suna Kira (tailings from refining silica sand mined in Seto). Unfired flowers made of Seto clay lie on it and fall into the sand over time. Paintings, video and lighting that turns on and off are also used.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://aichitriennale.jp/2025/en/artist/tomiyasu-yuma.html",
   "sources": [
    {
@@ -14176,7 +14176,7 @@
    "Material / sculpture"
   ],
   "summary": "The Sonic Waraca is a textile controller based on the waraca, an Andean sling, made for the Textile Museum of Canada's Gathering project with the curatorial collective Mending the Museum, in response to Peruvian textiles in the museum's collection. It works as part of a quadraphonic sound system: its position shifts sound among the speakers and modifies recorded sounds from protests in Peru. Online it is presented as an audio piece.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "",
   "sources": [
    {
@@ -14256,7 +14256,7 @@
    "Robotics / kinetics"
   ],
   "summary": "The Teaching Tree is a 40-metre-long sculptural installation of palm fronds painted black on a metal structure, animated internally by pneumatics, made for the National Pavilion of Saudi Arabia at the 59th Venice Biennale (Arsenale, Sale d'Armi, 23 April–27 November 2022), curated by Reem Fadda. The form starts as a thin point and widens along the length of the pavilion towards the entrance; visitors walk beside it as it rises and falls as if breathing, with the scent of dried palm leaves in the room.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://sculpturemagazine.art/from-the-imagined-world-a-conversation-with-muhannad-shono/",
   "sources": [
    {
@@ -14346,7 +14346,7 @@
    "Sound"
   ],
   "summary": "The Thinking Ocean is an online interactive generative work commissioned by the Whitney Museum for its artport website, part of the artists' series Cosmosapience. Viewers move through a simulated underwater scene of particles and bubbles that turns into patterns resembling cells, circuitry and code, driven by motion-captured choreography, with a 20-minute audio loop of spoken-word poetry; touching the screen moves the view, and the webcam can bring the viewer's surroundings into the image. It runs in the browser (threejs, WebGPU), every open instance shares a synchronised palette and atmosphere, and it is also shown as an installation and a live performance.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.memo.tv/projects/2026/thinkingocean/",
   "sources": [
    {
@@ -14427,7 +14427,7 @@
    "Sound"
   ],
   "summary": "There Goes Nikki is a five-minute augmented-reality memorial to the poet Nikki Giovanni, in which a volumetric capture of Giovanni recites her poem 'Quilting the Black-eyed Pea (We're going to Mars)' against a cosmic backdrop. At Tribeca Immersive 2025 visitors walked through a living garden installation to a pedestal that anchored the AR experience, with videos before and after it. It was made with Kinfolk Tech and Rada Collaborative.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://tribecafilm.com/festival/archive/there-goes-nikki-2025",
   "sources": [
    {
@@ -14510,7 +14510,7 @@
    "Material / sculpture"
   ],
   "summary": "They Who Saw Nothing but Beauty is a series of seven jacquard-woven wool tapestries made during the artist's residency at the Jan van Eyck Academie and woven at the TextielLab of the TextielMuseum Tilburg. The compositions are drawn as pixel art in the software Aseprite and show scenes connected to the Battle of Karbala, including a two-faced figure based on Sayyida Zaynab, in dense black-and-white patterns drawn from southern Iraqi carpet-making and Shia iconography. The title refers to Zaynab's reply 'I saw nothing but beauty'; the work received an Honorary Mention in Interactive Art + at Prix Ars Electronica 2026.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://archive.aec.at/prix/317102/",
   "sources": [
    {
@@ -14594,7 +14594,7 @@
    "Performance / body"
   ],
   "summary": "A 20-minute mixed reality installation in which the visitor, seated on a physical chair in a small room, takes the place of Shizuku, a young worker undergoing hypnosis with the therapist Ayano, and looks through virtual windows and gaps in the room into scenes of a teenage family life and Tomori's past. The room's windows and crevices require visitors to change position and posture to follow the story. Made as a master's thesis project at Tokyo University of the Arts (GEIDAI GAMES 07, March 2026), it was selected for the Venice Immersive competition at the 83rd Venice International Film Festival (2026).",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.labiennale.org/en/cinema/2026/venice-immersive/tomori",
   "sources": [
    {
@@ -14684,7 +14684,7 @@
    "Performance / body"
   ],
   "summary": "Toy Prototype is an installation of DIY robotic sculptures built by the artist from materials including aluminium profiles and DC motors, operated with remote controllers made of medical simulators and joysticks. The robots are shown alongside videos documenting Jeong's own interactions with the machines and their production process. It was commissioned by the National Museum of Modern and Contemporary Art, Korea in 2021 and shown with 9 added videos at the 59th Venice Biennale in 2022.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.labiennale.org/en/art/2022/milk-dreams/geumhyung-jeong",
   "sources": [
    {
@@ -14774,7 +14774,7 @@
    "Screen / monitor"
   ],
   "summary": "A multidisciplinary work commissioned for the 36th Bienal de São Paulo, made with collaborators from fashion, music and film: a clothing line made from transformed and repurposed worker's uniforms, a fashion show at the Bienal's opening, a sculptural installation of the garments, and a film documenting the creative process. In the installation, visitors meet garments on wooden structures and scaffolding, Polaroid and digital photographs of trans people, and a TV showing the film.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://36.bienal.org.br/en/artista/manauara-clandestina-en/",
   "sources": [
    {
@@ -14859,7 +14859,7 @@
    "Material / sculpture"
   ],
   "summary": "Transition sequence for a dream or fight is a silent stop-frame animation made from acid-etched copper plates, which borrows the cloud-like scene-change formations used in historical animated productions. It was commissioned by CIRCUIT Artist Moving Image for the group exhibition Leap to the Place of Two Pools, curated by Erin Robideaux Gleeson, at Te Pātaka Toi Adam Art Gallery, Wellington (1 February – 6 April 2025).",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.circuit.org.nz/project/leap-to-the-place-of-two-pools",
   "sources": [
    {
@@ -14926,7 +14926,7 @@
    "Performance / body"
   ],
   "summary": "A six-minute HD video performance in which the artist, wearing or pulling a long electric-blue fabric, moves through a forest towards a river and enters it, dragging the soaked fabric upstream until disappearing beneath a waterfall. The title refers to the trayenko (waterfall) in Mapuche cosmology, linked to lawen, medicinal herbs that grow near water; the video ends with a poem in Mapuzungun and Spanish. It was shown at the 2024 Whitney Biennial and is in the collection of the Block Museum, Northwestern University.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://whitney.org/exhibitions/2024-biennial/art?section=5",
   "sources": [
    {
@@ -15011,7 +15011,7 @@
    "Online / net art"
   ],
   "summary": "Twin Quasar is a three-dimensional virtual artwork and space in the Whitney Museum Virtual Landscape, commissioned for the Whitney's artport. It turns two works from the Whitney's collection, László Moholy-Nagy's Space Modulator (1938–40) and Rosalind Bengelsdorf Browne's Compotier II (1938), into navigable 3D models whose forms protrude from the virtual canvas as visitors approach, in an experience that replicates gravitational lensing. It can be visited on the multi-user MONA platform, where visitors see and can talk to each other, and in the Apple Vision Pro.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://whitney.org/exhibitions/twin-quasar",
   "sources": [
    {
@@ -15105,7 +15105,7 @@
    "Online / net art"
   ],
   "summary": "A two-channel video (29 minutes 45 seconds) shot across locations in Ras Al Khaimah and shown at Sharjah Biennial 15 in the Khorfakkan Art Centre. Through the perspectives of the ghost of an Al Qasimi pirate and a British naval officer, the film recounts the 1819 siege of Al Dhayah fort and the subsequent treaty, using TikTok-style graphics and internet aesthetics. Visitors watch from floral-patterned bean bags.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.sharjahart.org/en/projects/details/um-al-dhabab-mother-of-fog-2023",
   "sources": [
    {
@@ -15182,7 +15182,7 @@
    "Network / data"
   ],
   "summary": "Unknown Label is a single- or multi-channel video installation of about 16 minutes about online micro-workers in Venezuela, Kenya and the Philippines who outline and label images (\"image segmentation\") used to train self-driving cars for German and US car manufacturers. It combines the workers' testimonies with images they passed on and an animated digital collage of annotated images and a 3D map of the world as seen by self-driving cars, moving from single-colour segmentation to a city-scale 3D data visualisation. It was developed in 2023 during a European Media Art Platform residency at Werkleitz, received an Honorary Mention in New Animation Art at Prix Ars Electronica 2024, and was later released for cinema as Their Eyes (2025, with Lucas Azémar).",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://imal.org/en/events/endbeginning/unknown-label-nicolas-gourault",
   "sources": [
    {
@@ -15276,7 +15276,7 @@
    "Sound"
   ],
   "summary": "A site-specific installation for the 36th Bienal de São Paulo (2025), adapted from Buhlungu's 2024 project long time lung time continuuum!!! (a conver-something) at KIT - Kunst im Tunnel, Düsseldorf. A group of metal ventilation pipes extends from the ceiling of the Pavilion and descends beneath it, connected to the building's ventilation system; the pipes move air in loops and produce whistling, huffing and tonal sounds, exchanging air circulated by visitors.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://36.bienal.org.br/en/artista/simnikiwe-buhlungu-en/",
   "sources": [
    {
@@ -15365,7 +15365,7 @@
    "Light"
   ],
   "summary": "VOID (2022-ongoing) is a touring performance in which Joshua Serafin embodies a nonbinary deity, drawing on myths of the creation of the Philippine archipelago; it is part of the series Cosmological Gangbang. At the 60th Venice Biennale (2024, Nucleo Contemporaneo, Arsenale) audiences in a dark room watched Serafin move around a central crater in the floor while covering their body in a black, viscous substance, with light and smoke, video and sound; spectators were given ponchos.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.labiennale.org/en/art/2024/nucleo-contemporaneo/joshua-serafin",
   "sources": [
    {
@@ -15454,7 +15454,7 @@
    "Sound"
   ],
   "summary": "Void in Resonance is a multi-channel film installation about El Campo Pesquero de Playa Bagdad, a community at the eastern end of the Mexico–U.S. border, four kilometres from SpaceX's spaceport in Boca Chica, Texas. It shows a SpaceX launch through the perspectives of people working in the oyster field, juxtaposing Playa Bagdad's vernacular architecture with elements evoking SpaceX designs in deliberately underexposed images. It was produced through the 2025 CIFO x Ars Electronica Award and premiered at Ars Electronica Festival 2025 (POSTCITY, Linz).",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/panic/en/view/void-in-resonance-22238ddb450c815bad66c8fa5228e6ca",
   "sources": [
    {
@@ -15529,7 +15529,7 @@
    "Screen / monitor"
   ],
   "summary": "An official music video for the Washed Out song \"The Hardest Part\", made with OpenAI's text-to-video model Sora: a continuous forward push through time following a couple from school through marriage and later life across several decades. Trillo generated around 700 clips and edited about 55 of them into the roughly four-minute video; it received the 2024 Prix Ars Electronica Golden Nica (AI in Art) and was shown in the Ars Electronica Festival exhibition.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://ars.electronica.art/hope/en/washed-out-the-hardest-part/",
   "sources": [
    {
@@ -15619,7 +15619,7 @@
    "Material / sculpture"
   ],
   "summary": "We Are Dead Animals is a VR game, premiered at IDFA DocLab 2025, built from 3D scans (photograms) of dead animals the artist found in his surroundings, placed in a landscape that is his interpretation of paradise. Players fly through it with hand-tracking, revive animals, read about how they died, collect them, combine their body parts into new creatures, release them or eat them to extend a limited lifespan. At IDFA it was installed inside a nest built of organic material.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.idfa.nl/en/film/2199a031-3ed2-4e9d-8701-0a0cef4ceebe/we-are-dead-animals",
   "sources": [
    {
@@ -15704,7 +15704,7 @@
    "Text / print"
   ],
   "summary": "A film installation by Julianknxx first shown at the 36th Bienal de São Paulo (6 September 2025 – 11 January 2026) and later in the Bienal's traveling exhibitions in Goiânia, Curitiba and Santiago. Visitors enter a dark room with white walls where a black-and-white video is shown.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://36.bienal.org.br/en/artista/julianknxx-en/",
   "sources": [
    {
@@ -15780,7 +15780,7 @@
    "Material / sculpture"
   ],
   "summary": "A multiplayer video game installation inside a large walk-in sculpture of an anthill, designed with architect Jeremy Waterfield, in which visitors together steer a digital colony of programmed ants on screens around the interior. Players feed the colony with thoughts they type into the system, and depending on which thoughts are taken up the colony can burn, drown or starve; there is nothing to win or lose. It was first shown at Dhaka Art Summit 2023 and then travelled (Horst Arts and Music Festival, Zeppelin Museum, Pivô São Paulo), with the anthill rebuilt in local materials at each site.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://thenodmag.com/content/artist-afrah-shafiq-uses-tech-as-her-canvas-of-choice",
   "sources": [
    {
@@ -15865,7 +15865,7 @@
    "Material / sculpture"
   ],
   "summary": "A decision-making web game and NFT project, also presented as an installation with an interactive fibreglass sculpture with LED lights and water fountains, controlled by iPad. Players move through a labyrinth of metaphorical decisions (the path of the Divine Mother, Human God or Moral High Horse), collect 'wisdom tokens' as free downloadable artworks with a 'moral contract', and can see other online players on a map. Iterations were shown at HEK / Transfer Gallery, the Thailand Biennale 2021, Gray Area Festival 2021 and SeMA Bunker, Seoul; it received an Honorary Mention in Computer Animation at Prix Ars Electronica 2022.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://keiken.cloud/work/wisdoms-for-love-3-0-2/",
   "sources": [
    {
@@ -15965,7 +15965,7 @@
    "Screen / monitor"
   ],
   "summary": "With the Heart Coming Out of the Mouth was Brazil's presentation at the 59th Venice Biennale (2022), curated by Jacopo Crivelli Visconti. Built on an index of more than 200 Brazilian idiomatic expressions that name body parts, it combines sculptures, photographs and a video; visitors enter through an outsized ear and leave through another, and at intervals a large fabric heart drops from a mouth in the ceiling and inflates to fill the second room. The expressions are captioned in Portuguese, English and Italian.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.studiointernational.com/jonathas-de-andrade-brazil-pavilion-venice-biennale-2022-video-interview",
   "sources": [
    {
@@ -16050,7 +16050,7 @@
    "Performance / body"
   ],
   "summary": "Without Us is a project by composer and percussionist Daniel Brandt made up of an album (Erased Tapes, March 2025), a 20-minute short film of the same name directed with Anthony Dickenson and shot in Athens in 2023, and a live performance in which the concert is interwoven with the film. The film follows Gaia, an Uber driver who decides humanity is the world's problem; the album uses field recordings including the hum of Europe's largest mall. The live A/V version premiered at the Barbican in London in April 2025 and was presented at CTM Festival 2026.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.ctm-festival.de/festival-2026/programme/artists/d/daniel-brandt",
   "sources": [
    {
@@ -16150,7 +16150,7 @@
    "Text / print"
   ],
   "summary": "Written To Not Remain is a 12'30\" video work about writing on walls across post-revolution Libya since 2011. It combines archival imagery from a photo archive of over 200 images of wall writings that Barnosa began collecting in 2019 with acts made inside a VR simulation and 3D spatial scans, alongside a text recitation. It is listed among the S+T+ARTS Prize 2025 winners (Ars Electronica).",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://tewabarnosa.com/Written-To-Not-Remain",
   "sources": [
    {
@@ -16225,7 +16225,7 @@
    "Performance / body"
   ],
   "summary": "Zoom, Click, Waltz is a multimedia installation of 13 LED screens, each showing a person or people in a separate apartment window, dancing or not. It began during Singapore's 2020 Covid-19 'Circuit Breaker' lockdown, when the artist mailed letters to neighbours in her building asking them to dance by their living-room windows at a set time; the recordings are stitched together with staged, found and borrowed footage. It was shown at Gillman Barracks, Singapore (21 January - 7 February 2021) and won the 2021 Lumen Prize 3D/Interactive Award.",
-  "summary_by": "editorial summary written from the sources; not the artist's words",
+  "summary_by": "drafted by Claude (AI) from the sources; not the artist's words",
   "documentation_page": "https://www.yeoworkshop.com/artworks/523-sarah-choo-jing-zoom-click-waltz-2020",
   "sources": [
    {
